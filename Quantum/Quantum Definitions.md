@@ -619,6 +619,10 @@ They use the principle that good solutions are likely to be near other good solu
 
 
 ##### Exploration vs Exploitation
+
+A metaheuristic can:
+- **Exploit** its "current" position, by descending
+
 ##### Quantum Annealing
 ##### Quantum Tunneling
 ##### D-Wave

@@ -34,7 +34,10 @@ Measuring a qubit with state $\alpha\ket{0} + \beta\ket{1}$ results in $\ket{0}$
 Introduces superposition to a qubit in the computation basis state.
 
 $$
-H = 
+H = \frac{1}{}\begin{bmatrix}
+1 & 1 \\
+1 & -1
+\end{bmatrix}
 $$
 
 ##### Entanglement

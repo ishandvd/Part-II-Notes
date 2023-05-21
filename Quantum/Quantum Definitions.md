@@ -444,7 +444,6 @@ Quantum algorithm that can factor numbers in polynomial time; best classical alg
 
 Finding $r$ such that $x^r~\mathrm{mod}~N=1$.
 
-
 ## Lecture 11
 
 ##### Quantum Simulation

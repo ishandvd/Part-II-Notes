@@ -11,14 +11,11 @@
             "id": "7740faa5f4e56639",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -11.246482324796617,
-                  "y": -30.044780974657954,
-                  "zoom": 0.16675792289082889
-                }
+                "file": "Quantum/Quantum Definitions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Quantum/Quantum Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Quantum/Quantum Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Quantum/Quantum Definitions.md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "7740faa5f4e56639",
   "lastOpenFiles": [
-    "Quantum/Quantum Definitions.md",
     "Untitled.canvas",
+    "Quantum/Quantum Definitions.md",
     "Pasted image 20230521110216.png",
     "Hoare Logic and Model Checking/Hoare Logic.md",
     "Hoare Logic and Model Checking/Separation Logic.md",

@@ -29,10 +29,27 @@
 ##### Evolution
 ##### Pauli Matrices
 ##### Measurement
+##### Phase
+##### Entangled States
 
 
 ## Lecture 4
+
+##### Helstrom-Holevo Bound
+##### No-signalling principle
+##### No-cloning principle
+##### No-deleting principle
+
+
 ## Lecture 5
+
+##### Tensor network
+##### Quantum Circuit
+##### SWAP
+##### CNOT
+##### Universal Gate Set
+##### Toffoli
+
 ## Lecture 6
 ## Lecture 7
 ## Lecture 8

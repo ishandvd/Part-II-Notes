@@ -26,10 +26,17 @@ $$
 $$
 \ket{\psi} = \alpha\ket{0} + \beta\ket{1}
 $$
-##### Measurement
-Measuring a qubit with state $\alpha\ket{0} + \beta\ket{1}$ results in $\ket{0}$ with probability $\begin{vmatrix}\end{vmatrix}$
+##### Measurement (Born Rule)
+Measuring a qubit with state $\alpha\ket{0} + \beta\ket{1}$ results in $\ket{0}$ with probability $\begin{vmatrix}\alpha\end{vmatrix}^2$ and $\ket{1}$ with probability  $\begin{vmatrix}\beta\end{vmatrix}^2$ . A
 
 ##### Hadamard Gate
+
+Introduces superposition to a qubit in the computation basis state.
+
+$$
+H = 
+$$
+
 ##### Entanglement
 ##### Bell State
 ##### Superposition

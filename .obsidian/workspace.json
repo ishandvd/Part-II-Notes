@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Quantum/Quantum Definitions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,9 +148,9 @@
   },
   "active": "7740faa5f4e56639",
   "lastOpenFiles": [
-    "Diagram.svg",
+    "QFA.svg",
     "Quantum/Quantum Definitions.md",
-    "Diagram.svg.xml",
+    "QFA.svg.xml",
     "Untitled.canvas",
     "Pasted image 20230521110216.png",
     "Hoare Logic and Model Checking/Hoare Logic.md",

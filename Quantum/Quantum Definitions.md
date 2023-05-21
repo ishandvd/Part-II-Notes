@@ -513,9 +513,9 @@ At a given time, the DFA is in a certain state, and the head is over a symbol wh
 - Which next state the DFA moves to. A Turing machine accepts the input if it halts in an accept state. 
 
 The Turing machine is a sufficiently general model for computation to capture entirely that which can reasonably be thought of as mathematically computable. 
-![[Diagram.svg]]
+![[QFA.svg | center]]
 
-
+	
 ##### Nondeterministic Turing Machines
 
 If instead of a single action (overwritten symbol, move left or right and state transition) we allow a set of possible actions, then we get the nondeterministic Turing machine.

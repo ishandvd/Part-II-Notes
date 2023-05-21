@@ -423,12 +423,15 @@ $$
 A subroutine at the hear of quantum chemistry and many important quantum algorithms. It allows us to determine the phase of the eigenvalues under a unitary matrix.
 
 
-
-
 ## Lecture 10
 
 
 ##### One-way function
+
+Useful for public-key cryptography. If Alice publishes a public key, Bob can use it to encrypt a message to her. Alice can then use her private key to decrypt the message.
+
+Relies on the asymmetry of the cryptography; easy to encrypt the message using the public key, hard to decrypt without knowing the private key. This relies on the existence of a one-way function.
+
 ##### Shor's algorithm
 ##### Ordering Finding
 

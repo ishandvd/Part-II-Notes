@@ -356,11 +356,18 @@ A quantum generalisation of the AND gate. It is a CNOT that acts on two inputs.
 ## Lecture 6
 
 ##### Teleportation
-Using shared entanglement as a resour ce
+Using shared entanglement as a resource that allows a qubit to be transmitted using two bits.
 
 ##### Superdense Coding
+Using shared entanglement as a resource that allows two bits to be transmitted using a single qubit.
+
 ##### Quantum Key Distribution
+Creating a one-time pad without Alice and Bob meeting or sharing an absolutely secure communication channel.
+
 ##### One-time pad
+
+A list of $n$ random bits $r$. This computationally guarantees security.
+
 ##### BB84 Protocol
 ##### Eavesdropping
 

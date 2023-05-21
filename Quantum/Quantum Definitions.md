@@ -101,10 +101,24 @@ $$
 Ket: 
 
 $$
-\ket{\phi} =  
+\ket{\phi} = \begin{bmatrix}
+a_1 \\
+a_2 \\
+\vdots \\
+a_n \\
+\end{bmatrix}
 $$
 
 ##### Inner and Outer Product
+
+Inner product:
+
+$$
+\bra{u} \ket{v} = \bra{u} \times\ket{v} = \begin{bmatrix}
+a_1^* & ... & a_n^*
+\end{bmatrix} 
+$$
+
 ##### Projector
 ##### Basis
 ##### Eigenvectors and Eigenvalues

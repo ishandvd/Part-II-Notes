@@ -460,10 +460,13 @@ A representation of the ground state energy of a physical system. The sum of all
 A method that allows us to do the following where $A$ is a matrix and not just a scalar (which is trivial):
 
 $$
-e^{A_1 + A_2}
+e^{A_1 + A_2} = e^{A_1} + e^{A_2} 
 $$
 
 ##### Ground state energy
+
+The smallest eigenvalue of the Ham
+
 ##### Variational quantum eigensolver
 
 ## Lecture 12

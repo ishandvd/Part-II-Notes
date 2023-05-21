@@ -563,9 +563,14 @@ $$\begin{align}
 0 \to 000 \\
 1 \to 111
 
-\end{align}$$ These can be decoded using a "majority vote". Probability of two or three bits to have been flipped is: $$p_e^` = 3p_e^2$$
+\end{align}$$ These can be decoded using a "majority vote". Probability of two or three bits to have been flipped is: $$p_e^` = 3p_e^2(1-p_e) + p_e^3 < p_e~\mathrm{for}~ p_e < 0.5$$
+We have suppressed the error to $\mathcal{O} (p_e^2)$.
+
 
 ##### Three-qubit bit-flip code
+
+Used to detecet
+
 ##### Three-Qubit phase-flip code
 ##### Depolarising Channel
 

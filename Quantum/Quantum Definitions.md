@@ -390,7 +390,7 @@ In Deutsch’s algorithm we are not using a quantum computer to evaluate a “cl
 
 ##### Oracles and Black Boxes
 
-
+ When performing subroutines, we query $U$ in many quantum algorithms, which acts as a "black box". We assume that $U$ does the job as required, and that we can call on it as many times as required.
 
 
 ## Lecture 8

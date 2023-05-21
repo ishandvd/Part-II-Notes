@@ -232,10 +232,10 @@ $$
 One-bit qubits can be written as:
 
 $$
-\ket{\psi} = e^{i \theta}(alhpa \ket{0}  + \beta ^{i \theta}\ket{1} ) \equiv 
+\ket{\psi} = e^{i \theta}(alhpa \ket{0}  + \beta ^{i \theta}\ket{1} ) \equiv E^{i \theta}\ket{\psi^`} 
+
 $$
-
-
+$\theta$ is known as the **global phase**, and has no observable consequences when a measurement is taken because:
 
 ##### Entangled States
 

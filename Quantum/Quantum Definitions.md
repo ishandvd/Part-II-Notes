@@ -569,11 +569,15 @@ We have suppressed the error to $\mathcal{O} (p_e^2)$.
 
 ##### Three-qubit bit-flip code
 
-Used to detecet
+Used to detect and recover from bit flips.
 
 ##### Three-Qubit phase-flip code
+
+Use to detect and recover from phase flips.
+
 ##### Depolarising Channel
 
+In the depolarising channel, a physical qubit is left unchanged with probability $p_e$. It also experiences a bit-flip or phase-with probability $\frac{p_e}{3}$, and experie
 
 
 ## Lecture 14

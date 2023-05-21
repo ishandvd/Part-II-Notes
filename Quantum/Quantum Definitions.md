@@ -242,14 +242,17 @@ When doing a measurement with the measurement operator $P_m$:
 $$
 \begin{align}
 \bra{\psi} P_m^{^{\dagger}}P_M \ket{\psi}  = \bra{\psi^`}e^{-i \theta}   p_m^{^{\dagger}}P_m e_{i \theta}  \ket{\psi^`} = \bra{\psi^ `}    
-\end{align}
+\end{align}P_m^{^{\dagger}}P_m \ket{\psi^`} 
 $$
 
 
-
-
-
 ##### Entangled States
+
+We can use the CNOT to get us into an entangled state:
+
+$$
+\mathrm{}
+$$
 
 
 ## Lecture 4

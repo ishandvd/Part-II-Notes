@@ -13,4 +13,7 @@
 
 #### Quantum Circuits
 
+#### Computing Mathematical Functions with Quantum Circuits
 
+
+#### Oracles

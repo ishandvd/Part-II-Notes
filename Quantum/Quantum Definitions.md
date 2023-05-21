@@ -541,8 +541,9 @@ P(M~\mathrm{accepts}~w) = \left\{
 $$Clearly each probability distribution in a probabilistic Turing machine could consist of a single deterministic branch, so $P \subseteq BPP$.
 - **BQP**: The set of languages, $L$, for which there is a [[Quantum Definitions#Quantum Turing Machines|quantum Turing machine]], $M$, running in polynomial time with: The choice of $\frac{2}{3}$ is arbitrary; it should be fine as long as we pick a limit $> \frac{1}{2}$. The quantum Turing machine generalises the probabilistic Turing machine, so $BPP \subseteq BQP$. 
 - Don't know if $P = NP$.
-- Conjectured that $P = BPP$, but we don't know whe.
-- 
+- Conjectured that $P = BPP$, but we don't know whether $BPP$ is a subset of $NP$.
+- As factoring is thought to be super-polynomial (ALMOST exponential), the existence of Shor's algorithm is taken as evidence that $BPP \neq BQP$.
+- Widely believed that $NP$-complete problems cannot be solved in polynomial time on a quantum computer (unless $P = NP$), so $BQP \nsubseteq NP$
 
 ## Lecture 13
 

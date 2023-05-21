@@ -543,7 +543,8 @@ $$Clearly each probability distribution in a probabilistic Turing machine could 
 - Don't know if $P = NP$.
 - Conjectured that $P = BPP$, but we don't know whether $BPP$ is a subset of $NP$.
 - As factoring is thought to be super-polynomial (ALMOST exponential), the existence of Shor's algorithm is taken as evidence that $BPP \neq BQP$.
-- Widely believed that $NP$-complete problems cannot be solved in polynomial time on a quantum computer (unless $P = NP$), so $BQP \nsubseteq NP$
+- Widely believed that $NP$-complete problems cannot be solved in polynomial time on a quantum computer (unless $P = NP$), so $NP \nsubseteq BQP$.
+- ... Also believed there are problems OUTSIDE of $NP$ which can be solved in polynomial time on a quantum computer, so $BQP \nsubseteq NP$.
 
 ## Lecture 13
 

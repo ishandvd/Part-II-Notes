@@ -496,9 +496,12 @@ Can have any number of outgoing arrows for each state-letter pair.
 
 ##### Probabilistic Automata
 
-Essentially Markov chains, with state transitions being probabilistic; The transition matrix contains fractional values such that each column sums to one ($\sump($)
+Essentially Markov chains, with state transitions being probabilistic; The transition matrix contains fractional values such that each column sums to one ($\sum_{b_i \in \mathrm{Outgoing~of~a}} p(a \to b_i) = 1$). 
 
 ##### Quantum Automata
+
+
+
 ##### Turing Machines
 ##### Nondeterministic Turing Machines
 ##### Quantum Turing Machines

@@ -338,18 +338,26 @@ $$
 **Gottesman-Knill** theorem holds that any circuit containing just X,Y,Z,H,S, and CNOT can be efficiently simulated on a classical computer.
 
 $$
-hi
+\begin{align}
+S  & = T^2 \\
+Z  & = S^2 \\
+X  & = HZH \\
+Y  & = iXZ = SXSZ \\
+\end{align}$$
 
-$$
 
 
 
 
 ##### Toffoli
 
+A quantum generalisation of the AND gate. It is a CNOT that acts on two inputs.
+
 ## Lecture 6
 
 ##### Teleportation
+Using shared entanglement as a resour ce
+
 ##### Superdense Coding
 ##### Quantum Key Distribution
 ##### One-time pad

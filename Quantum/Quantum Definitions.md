@@ -24,9 +24,11 @@ $$
 \end{bmatrix} = \ket{1} 
 $$
 $$
-\ket{\psi} = \alpha\ket{0} + \beta 
+\ket{\psi} = \alpha\ket{0} + \beta\ket{1}
 $$
 ##### Measurement
+Measuring a qubit with state $\alpha\ket{0} + \beta\ket{1}$ results in $\ket{0}$ with probability $\begin{vmatrix}\end{vmatrix}$
+
 ##### Hadamard Gate
 ##### Entanglement
 ##### Bell State

@@ -167,7 +167,13 @@ If a $n \times n$ matrix, **A**, has the effect of scaling a given non-zero vect
 $$
 A \ket{v}  = \lambda\ket{v}
 $$
-The eigenvalues of a matrix are the
+The eigenvalues of a matrix are the roots of the characteristic polynomial: 
+
+$$
+\mathrm{det}(A - \lambda I) = 0
+$$
+Where $\mathrm{det}$ denotes the determinant, and $I$ is the $n \times n$ identity. Each square matrix has ATLEAST ONE eigenvalue.
+
 ##### Hermitian
 ##### Unitary
 

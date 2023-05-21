@@ -251,9 +251,10 @@ $$
 We can use the CNOT to get us into an entangled state:
 
 $$
-\mathrm{}
+\mathrm{CNOT}(\ket{+} \otimes \ket{0} ) = \frac{1}{\sqrt{ 2 }}(\ket{00}  + \ket{11} )
 $$
 
+This cannot be separated as a tensor product of two qubits. We call CNOT an entangling gate.
 
 ## Lecture 4
 

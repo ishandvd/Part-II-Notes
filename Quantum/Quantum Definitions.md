@@ -116,8 +116,15 @@ Inner product:
 $$
 \bra{u} \ket{v} = \bra{u} \times\ket{v} = \begin{bmatrix}
 a_1^* & ... & a_n^*
-\end{bmatrix} 
+\end{bmatrix} \begin{bmatrix}
+b_1 \\
+\vdots \\
+b_n
+\end{bmatrix}
+= \sum_{i=1}^n a_1^*b_i
 $$
+
+if $\bra{u}\ket{v} = 0$ then $\ket{u}$
 
 ##### Projector
 ##### Basis

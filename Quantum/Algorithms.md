@@ -15,7 +15,7 @@
 
 #### Quantum Phase Estimation
 
-#### Shor's Algorithm
+#### Shor's Factoring Algorithm
 
 #### Order Finding
 

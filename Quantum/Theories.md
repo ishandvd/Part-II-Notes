@@ -17,3 +17,11 @@
 
 
 #### Oracles
+
+#### Quantum Simulation
+
+#### Trotterisation
+
+#### Quantum Chemistry
+
+#### p

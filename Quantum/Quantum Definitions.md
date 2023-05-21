@@ -161,6 +161,9 @@ where the coefficients $\alpha_i \in \mathbb{C}$ .
 That is, the basis is a minimal collection of vectors where they are all linearly independent; no $\ket{v_i}$ can be expressed as a linear combination of the others. The size of the basis is $n$, termed its **dimension**.
 
 ##### Eigenvectors and Eigenvalues
+
+If a $n \times n$ matrix, **A** 
+
 ##### Hermitian
 ##### Unitary
 

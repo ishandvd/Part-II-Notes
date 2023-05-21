@@ -465,9 +465,13 @@ $$
 
 ##### Ground state energy
 
-The smallest eigenvalue of the Ham
+The smallest eigenvalue of the Hamiltonian $H$.
+
 
 ##### Variational quantum eigensolver
+
+A method for finding the ground state energy by finding 
+
 
 ## Lecture 12
 

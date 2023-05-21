@@ -54,10 +54,10 @@ When two particles link together in a certain way no matter how far apart they a
 ##### Bell State
 ##### Superposition
 
-If a physical system may be in one of many configs, 
+If a physical system may be in one of many arrangements of particles or fields, then the most general state is a combination of all these possibilities, or, a **superposition** of these.
 
 ##### Interference
-
+When a subatomic particles interact with and influence themselves and other particles while in a probabilistic superposition state.
 
 
 ## Lecture 2

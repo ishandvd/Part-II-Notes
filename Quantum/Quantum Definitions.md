@@ -601,9 +601,16 @@ Performing H, S and CNOT across the units of the Steane code.
 
 ##### Concatenated Codes
 
+We use the physical qubits in a two-level concatenated Steane code.
+
+
 ## Lecture 15
 
 ##### Quantum Adiabatic Theorem
+
+If a quantum system starts in a ground-state, so long as we evolvethe state slowly,
+
+
 ##### Metaheuristics
 ##### Exploration vs Exploitation
 ##### Quantum Annealing

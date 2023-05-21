@@ -144,10 +144,16 @@ a_nb_1^* &  & a_nb_m^*\\
 
 \end{bmatrix}
 $$
-If $\ket{u}$ is a unit vector, then $\ket{u}\bra{u}$ is know as a project, as $\ket{u}\bra{u}$ is an operator that "projects" an arbitrary vector (of appro)
 
 ##### Projector
+
+If $\ket{u}$ is a unit vector, then $\ket{u}\bra{u}$ is know as a project, as $\ket{u}\bra{u}$ is an operator that "projects" an arbitrary vector (of appropriate dimension) $\ket{v}$ onto the subspace $\ket{u }$.
+
 ##### Basis
+
+A basis of $\mathbb{C}^n$ is a minimal collection of vectors
+
+
 ##### Eigenvectors and Eigenvalues
 ##### Hermitian
 ##### Unitary

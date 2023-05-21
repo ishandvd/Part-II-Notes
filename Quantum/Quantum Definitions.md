@@ -587,10 +587,18 @@ In the depolarising channel, a physical qubit is left unchanged with probability
 
 ##### Fault Tolerance
 
-We must correct 
+We must correct errors as we go along; errors occur with significant frequency, and if uncorrected they will propogate, rendering the computation useless.
 
 ##### Steane Code Gates
+
+- Steam code Hadamard gate
+- S Gate
+- CNOT gate
+
 ##### Transversatility
+
+Performing H, S and CNOT across the units of the Steane code.
+
 ##### Concatenated Codes
 
 ## Lecture 15

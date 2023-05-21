@@ -53,7 +53,11 @@ When two particles link together in a certain way no matter how far apart they a
 
 ##### Bell State
 
-Each of the two qubits in the bell state are in equal superposition, however the
+Each of the two qubits in the bell state are in equal superposition, however the two qubits are entangled. As soon as one qubit is measured, the second qubit collapses into the same state. 
+
+$$
+\ket{\phi^+} = \frac{1}{\sqrt{ 2 }} (\ket{00}  + \ket{11} )
+$$
 
 ##### Superposition
 
@@ -66,6 +70,9 @@ When a subatomic particles interact with and influence themselves and other part
 ## Lecture 2
 
 ##### Hilbert Space
+
+Finite dimension vector space with a defined inner product.
+
 ##### Adjoint
 ##### Dirac Notation
 ##### Inner and Outer Product

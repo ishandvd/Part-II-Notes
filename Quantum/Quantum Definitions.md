@@ -75,12 +75,20 @@ Finite dimension vector space with a defined inner product.
 
 ##### Adjoint
 
-$$
-\mathrm{if} A = \begin{bmatrix}
+$$ \begin{align}
+
+
+\mathrm{if}~A = \begin{bmatrix}
 a_{11} & \dots & a_{1m} \\
 \vdots  & \ddots  & \vdots  \\
-a_{n1}
-\end{bmatrix}A^{^{\dagger}} = (A^*)^T
+a_{n1} &  & a_{nm}
+\end{bmatrix}, \\
+A^{^{\dagger}} = (A^*)^T = \begin{bmatrix}
+a_{11}^* & \dots & a_{n1} \\
+\vdots  & \ddots  & \vdots  \\
+a_{1m}^* &  & a_{mn}^*
+\end{bmatrix}
+\end{align}
 $$
 
 ##### Dirac Notation

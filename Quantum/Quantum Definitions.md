@@ -227,11 +227,16 @@ $$
 Z\ket{0} = \ket{0}, Z\ket{1}, = - \ket{1}
 $$
 
-##### Measurement
-
-
-
 ##### Phase
+
+One-bit qubits can be written as:
+
+$$
+\ket{\psi} = e^{i \theta}(alhpa \ket{0}  + \beta ^{i \theta}\ket{1} ) \equiv 
+$$
+
+
+
 ##### Entangled States
 
 

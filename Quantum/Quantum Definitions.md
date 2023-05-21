@@ -276,16 +276,27 @@ We cannot clone qubits.
 
 We cannot delete one of two copies of a quantum state, that is, there is no unitary $U$ such that:
 
-
-
-
+$$
+U(\ket{\psi} \ket{\psi} ) = \ket{\psi} \ket{0}
+$$
+More generally, quantum computing is reversible.
 
 
 ## Lecture 5
 
 ##### Tensor network
+
+We can apply separable operations even to entangled states using tensor networks, where each wire represents a qubit.
+
 ##### Quantum Circuit
+
+Wire a qubits (possible entangled), gates are unitary matrices (e.g. $X,Y,Z$).
+
 ##### SWAP
+
+
+
+
 ##### CNOT
 ##### Universal Gate Set
 ##### Toffoli

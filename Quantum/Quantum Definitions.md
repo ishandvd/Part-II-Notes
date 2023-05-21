@@ -432,7 +432,12 @@ Useful for public-key cryptography. If Alice publishes a public key, Bob can use
 
 Relies on the asymmetry of the cryptography; easy to encrypt the message using the public key, hard to decrypt without knowing the private key. This relies on the existence of a one-way function.
 
+**One-way functions** are easy to perform going forward, but hard to invert. e.g. RSA uses factoring as a one-way function.
+
 ##### Shor's algorithm
+
+Quantum algorithm that can factor numbers in polynomial time; best classical algorithm for this is the *number field sieve* which requires $\mathrm{exp}$
+
 ##### Ordering Finding
 
 

@@ -232,10 +232,12 @@ $$
 One-bit qubits can be written as:
 
 $$
-\ket{\psi} = e^{i \theta}(alhpa \ket{0}  + \beta ^{i \theta}\ket{1} ) \equiv e^{i \theta}\ket{\psi^`} 
+\ket{\psi} = e^{i \theta}(\alpha \ket{0}  + \beta ^{i \theta}\ket{1} ) \equiv e^{i \theta}\ket{\psi^`} 
 
 $$
-$\theta$ is known as the **global phase**, and has no observable consequences when a measurement is taken because:
+$\theta$ is known as the **global phase**. It has no impact when a unitary $U$ is applied.
+
+When
 
 
 

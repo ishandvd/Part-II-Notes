@@ -175,12 +175,19 @@ $$
 Where $\mathrm{det}$ denotes the determinant, and $I$ is the $n \times n$ identity. Each square matrix has ATLEAST ONE eigenvalue.
 
 ##### Hermitian
+
+A matrix is *Hermitian* if $A = A^{^{\dagger}}$. 
+
 ##### Unitary
 
+When $A^{^{\dagger}}A = AA^{^{\dagger}} = I$ .
 
 ## Lecture 3
 
 ##### State Space
+
+
+
 ##### Evolution
 ##### Pauli Matrices
 ##### Measurement

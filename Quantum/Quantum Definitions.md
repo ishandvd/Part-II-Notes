@@ -194,6 +194,28 @@ The [[Quantum Definitions#Hilbert Space]] that a state lives in (in the context 
 How a system changes over time; useful for describing what the Hamiltonian is for example when doing chemistry.
 
 ##### Pauli Matrices
+
+X, Y, Z are important one-qubit unitary matrices:
+
+$$
+X = \begin{bmatrix}
+0 & 1 \\
+1 & 0
+\end{bmatrix}, Y = i\begin{bmatrix}
+0 & -1 \\
+1 & 0
+\end{bmatrix}, Z = \begin{bmatrix}
+1 & 0  \\
+0 & -1
+\end{bmatrix}
+$$
+
+X is akin to a NOT gate:
+
+$$
+X\ket{0}  = 
+$$
+
 ##### Measurement
 ##### Phase
 ##### Entangled States

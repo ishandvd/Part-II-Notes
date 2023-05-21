@@ -410,8 +410,11 @@ Quantum speedup by a quadratic factor in comparison to a classic computation.
 
 Allows us to see the frequency components of signals. Useful for DSP.
 
-The discrete Fourier transform (DFT) is still widely used,
+The discrete Fourier transform (DFT) is still widely used. Takes an input vector $x$ and transforms it to an output $y$ of the same length, where y represents the frequencies within $x$:
 
+$$
+y_k = \frac{1}{\sqrt{ N }} \sum_{j=0}^{n-1} 
+$$
 
 ##### Quantum Fourier Transform
 ##### Quantum Phase Estimation

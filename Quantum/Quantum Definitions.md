@@ -294,7 +294,7 @@ Wire a qubits (possible entangled), gates are unitary matrices (e.g. $X,Y,Z$).
 
 ##### SWAP
 
-
+Let $\ket{\psi_1}\ket{\psi_2} = \alpha\ket{00} + \beta\ket{01} + \gamma\ket{10} + \delta\ket{11}$,
 
 
 ##### CNOT

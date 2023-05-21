@@ -115,9 +115,18 @@
 
 ##### Quantum Error Correction
 ##### Three-bit repetition code
-##### Three-qubit
+##### Three-qubit bit-flip code
+##### Three-Qubit phase-flip code
+##### Depolarising Channel
+
 
 
 ## Lecture 14
+
+##### Fault Tolerance
+##### Steane Code Gates
+##### Transversatility
+##### Concatenated Codes
+
 ## Lecture 15
 ## Lecture 16

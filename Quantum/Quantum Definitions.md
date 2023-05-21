@@ -129,4 +129,17 @@
 ##### Concatenated Codes
 
 ## Lecture 15
+
+##### Quantum Adiabatic Theorem
+##### Metaheuristics
+##### Exploration vs Exploitation
+##### Quantum Annealing
+##### Quantum Tunneling
+##### D-Wave
+
 ## Lecture 16
+
+##### NISQ
+##### Quantum Counting
+##### HHL 
+##### Quantum Singular

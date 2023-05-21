@@ -74,6 +74,13 @@ When a subatomic particles interact with and influence themselves and other part
 Finite dimension vector space with a defined inner product.
 
 ##### Adjoint
+
+$$
+\mathrm{if} A = \begin{bmatrix}
+A_{11}
+\end{bmatrix}A^{^{\dagger}} = (A^*)^T
+$$
+
 ##### Dirac Notation
 ##### Inner and Outer Product
 ##### Projector

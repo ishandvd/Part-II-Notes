@@ -154,9 +154,11 @@ If $\ket{u}$ is a unit vector, then $\ket{u}\bra{u}$ is know as a project, as $\
 A basis of $\mathbb{C}^n$ is a minimal collection of vectors $\ket{v_1}, \ket{v_2}, ..., \ket{v_n}$ such that every vector $\ket{v} \in \mathbb{C}^n$ can be expressed as a linear combination of these:
 
 $$
-\ket{v}  = \alpha_1 \ket{v_1}  + \alpha_2 \ket{v_2}  + \dots+ alpha_n 
+\ket{v}  = \alpha_1 \ket{v_1}  + \alpha_2 \ket{v_2}  + \dots+ \alpha_n \ket{v_n}
 $$
+where the coefficients $\alpha_i \in \mathbb{C}$ . 
 
+That is, the basis is a minimal collection of v
 
 ##### Eigenvectors and Eigenvalues
 ##### Hermitian

@@ -324,7 +324,9 @@ A Controlled Not gate that acts on two qubits.
 
 ##### Universal Gate Set
 
-Solovay-Kitaev theorem implies that any circuit containing m CNOTs and arbtrary single qubit unitaries can be approximated to an accuracy $d$
+Solovay-Kitaev theorem implies that any circuit containing m CNOTs and arbtrary single qubit unitaries can be approximated to an accuracy $\epsilon$ by a circuit using a universal finite gate-set with $\mathcal{O}(m\mathrm{log}^c(m / \epsilon))$ gates where $c \approx2$. 
+
+Only THREE GATES are needed for a universal gat
 
 ##### Toffoli
 

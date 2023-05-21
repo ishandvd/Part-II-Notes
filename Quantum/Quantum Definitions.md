@@ -549,6 +549,9 @@ $$Clearly each probability distribution in a probabilistic Turing machine could 
 ## Lecture 13
 
 ##### Quantum Error Correction
+
+
+
 ##### Three-bit repetition code
 ##### Three-qubit bit-flip code
 ##### Three-Qubit phase-flip code

@@ -41,15 +41,23 @@ H = \frac{1}{\sqrt{ 2 }}\begin{bmatrix}
 $$
 Has the following effect on the computation basis states:
 $$
-H \ket{+} \to 
+H \ket{+} \to \ket{0}
+$$
+$$
+H \ket{-} \to\ket{1} 
 $$
 
-
-
 ##### Entanglement
+
+When two particles link together in a certain way no matter how far apart they are in space.
+
 ##### Bell State
 ##### Superposition
+
+If a physical system may be in one of many configs, 
+
 ##### Interference
+
 
 
 ## Lecture 2

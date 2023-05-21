@@ -138,9 +138,13 @@ a_n
 \end{bmatrix} \begin{bmatrix}
 b_1^* & \dots & b_m^*
 \end{bmatrix} = \begin{bmatrix}
-a_1b_1^*  &  \dots & a_1b_m^
+a_1b_1^*  &  \dots & a_1b_m^* \\
+\vdots & \ddots &  \\
+a_nb_1^* &  & a_nb_m^*\\
+
 \end{bmatrix}
 $$
+If $\ket{u}$ is a unit vector, then $\ket{u}\bra{u}$ is know as a project, as $\ket{u}\bra{u}$ is an operator that "projects" an arbitrary vector (of appro)
 
 ##### Projector
 ##### Basis

@@ -99,7 +99,25 @@
 ##### Variational quantum eigensolver
 
 ## Lecture 12
+
+##### Finite automata
+##### Deterministic Finite Automata
+##### Nondeterministic finite automata
+##### Probabilistic Automata
+##### Quantum Automata
+##### Turing Machines
+##### Nondeterministic Turing Machines
+##### Quantum Turing Machines
+##### Complexity Classes
+
+
 ## Lecture 13
+
+##### Quantum Error Correction
+##### Three-bit repetition code
+##### Three-qubit
+
+
 ## Lecture 14
 ## Lecture 15
 ## Lecture 16

@@ -77,7 +77,9 @@ Finite dimension vector space with a defined inner product.
 
 $$
 \mathrm{if} A = \begin{bmatrix}
-A_{11}
+a_{11} & \dots & a_{1m} \\
+\vdots  & \ddots  & \vdots  \\
+a_{n1}
 \end{bmatrix}A^{^{\dagger}} = (A^*)^T
 $$
 

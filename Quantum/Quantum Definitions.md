@@ -126,7 +126,21 @@ $$
 
 if $\bra{u}\ket{v} = 0$ then $\ket{u}$ and $\ket{v}$ are **orthogonal**.
 
-$|\ket{u}||= \sqrt{ \bra{u}\ket{u} }$ is the **nor**
+$|\ket{u}||= \sqrt{ \bra{u}\ket{u} }$ is the **norm** of $\ket{u}$; all unit vectors have norm = 1.
+
+Outer product:
+
+$$
+\ket{u} \bra{v}  = \begin{bmatrix}
+a_1 \\
+\vdots   \\
+a_n
+\end{bmatrix} \begin{bmatrix}
+b_1^* & \dots & b_m^*
+\end{bmatrix} = \begin{bmatrix}
+a_1b_1^*  &  \dots & a_1b_m^
+\end{bmatrix}
+$$
 
 ##### Projector
 ##### Basis

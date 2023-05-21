@@ -508,12 +508,25 @@ The transition matrices are unitary matrices consisting of positive and negative
 A Deterministic Finite Automata. There is an infinitely long read-write tape, upon which the input string is initially written. At any time a “head” is over one space on the tape, and can read the symbol written there (initially the head is at the left-hand end of the tape). The action of a Turing machine is thus: 
 
 At a given time, the DFA is in a certain state, and the head is over a symbol which it reads. Given this state-symbol pair, a transition function determines: 
-- Which symbol to overwrite on the current space on the tape. Whether to move the head left or right. Which next state the DFA moves to. A Turing machine accepts the input if it halts in an accept state. The Turing machine is a sufficiently general model for computation to capture entirely that which can reasonably be thought of as mathematically computable. T
+- Which symbol to overwrite on the current space on the tape. 
+- Whether to move the head left or right. 
+- Which next state the DFA moves to. A Turing machine accepts the input if it halts in an accept state. 
+
+The Turing machine is a sufficiently general model for computation to capture entirely that which can reasonably be thought of as mathematically computable. 
+
+
 
 ##### Nondeterministic Turing Machines
+
+If instead of a single action (overwritten symbol, move left or right and state transition) we allow a set of possible actions, then we get the nondeterministic Turing machine.
+
+This can be thought of as a tree, where each branching process represents the variety of possible actions at a given time. A string is accepted if there is some path through the tree to an accept state.
+
 ##### Quantum Turing Machines
 ##### Complexity Classes
 
+- **P**: The class of problems that can be decided in polynomial-time on a Turing machine.
+- 
 
 ## Lecture 13
 

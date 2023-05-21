@@ -500,6 +500,8 @@ Essentially Markov chains, with state transitions being probabilistic; The trans
 
 ##### Quantum Automata
 
+The transition matrices are unitary matrices consisting of positive and negative complex numbers. A special quantum automata are *reversible automata* where transition matrices are binary permutation matrices (exactly one 1 in each column and row).
+
 
 
 ##### Turing Machines

@@ -240,7 +240,7 @@ $\theta$ is known as the **global phase**. It has no impact when a unitary $U$ i
 When doing a measurement with the measurement operator $P_m$: 
 
 $$
-\bra{\psi} P_m^{^{\dagger}}P_M \ket{\psi}  = \bra{\psi^`}e^{-i \theta}   p_m^{^{\dagger}}P_m e
+\bra{\psi} P_m^{^{\dagger}}P_M \ket{\psi}  = \bra{\psi^`}e^{-i \theta}   p_m^{^{\dagger}}P_m e_{i \theta}  \ket{\psi^`} = \bra{\psi^ `}    
 $$
 
 

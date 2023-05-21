@@ -651,7 +651,12 @@ Can be used to estimate the number of marked elements the number of Grover itera
 
 ##### HHL 
 
+Used for approximately solving sparse systems of linear equations. Combines Quantum phase estimation, Hamiltonian, amplitude amplification.
 
 ##### Quantum Singular-Value Transform
+
+Extremely general framework, dubbed the 
+
+
 ##### Quantum Machine Learning
 ##### Quantum Volume

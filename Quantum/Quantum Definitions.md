@@ -621,7 +621,8 @@ They use the principle that good solutions are likely to be near other good solu
 ##### Exploration vs Exploitation
 
 A metaheuristic can:
-- **Exploit** its "current" position, by descending
+- **Exploit** its "current" position, by descending incrementally. The risk is that this returns a (possibly not very good) local minimum.
+- **Explore** the optimisation surface by making "large movements" to discover whether another part of optimisation surface returns smaller values of $f(x)$. In this case, the global minum may be found, but the value of $x$ returned my only be a fairly poor approximation of the actual global minimum $x$
 
 ##### Quantum Annealing
 ##### Quantum Tunneling

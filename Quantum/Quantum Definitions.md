@@ -84,7 +84,20 @@
 
 ## Lecture 10
 
+
+##### One-way function
+##### Shor's algorithm
+##### Ordering Finding
+
+
 ## Lecture 11
+
+##### Quantum Simulation
+##### Hamiltonian
+##### Trotterisation
+##### Ground state energy
+##### Variational quantum eigensolver
+
 ## Lecture 12
 ## Lecture 13
 ## Lecture 14

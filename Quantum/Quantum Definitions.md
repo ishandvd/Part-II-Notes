@@ -523,11 +523,17 @@ If instead of a single action (overwritten symbol, move left or right and state 
 This can be thought of as a tree, where each branching process represents the variety of possible actions at a given time. A string is accepted if there is some path through the tree to an accept state.
 
 ##### Quantum Turing Machines
+
+Quantum Turing machines are like probabilistic Turing machines, but now complex amplitudes are associated with each possible next move. It is also necessary that the linear transformation defined by the machine is unitary.
+
+
 ##### Complexity Classes
 
 - **P**: The class of problems that can be decided in polynomial-time on a Turing machine.
 - **NP**: The problems that can be solved by a [[Quantum Definitions#Nondeterministic Turing Machines|Nondeterministic Turing Machine]] that has a tree height bounded polynomially. **P** represents problems that can be solved using only one specific branch (root -> leaf). Therefore $P \subseteq NP$.
-- 
+- **BQP**: The set of languages, $L$, for which there is a [[Quantum Definitions#Quantum Turing Machines|quantum Turing machine]], $M$, running in polynomial time with: $$
+P(M~\mathrm{accepts}~w) = 
+$$
 
 ## Lecture 13
 

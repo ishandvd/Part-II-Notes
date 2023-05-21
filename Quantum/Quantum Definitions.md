@@ -5,10 +5,19 @@
 Similar to how we use 0 and 1 in all other computing, we have:
 
 $$
-0 = mat
+0 = \begin{bmatrix}
+1 \\ 0
+\end{bmatrix},
+1 = \begin{bmatrix}
+0 \\ 1
+\end{bmatrix}
 $$
 
+
 ##### Qubit
+
+
+
 ##### Measurement
 ##### Hadamard Gate
 ##### Entanglement

@@ -369,13 +369,21 @@ Creating a one-time pad without Alice and Bob meeting or sharing an absolutely s
 A list of $n$ random bits $r$. This computationally guarantees security.
 
 ##### BB84 Protocol
+
+A protocol used for creating one-time pads.
+
 ##### Eavesdropping
+
+Eavesdropping disturbs a shared key; when a third person (Eve) is listening in on a communication channel between Alice and Bob.
 
 
 ## Lecture 7
 
 ##### Deutsch-Jozsa Algorithm
 ##### Constant and Balanced
+
+If a function
+
 ##### Query complexity
 ##### Oracles and Black Boxes
 

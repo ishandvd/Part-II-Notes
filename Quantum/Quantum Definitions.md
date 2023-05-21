@@ -526,7 +526,7 @@ This can be thought of as a tree, where each branching process represents the va
 ##### Complexity Classes
 
 - **P**: The class of problems that can be decided in polynomial-time on a Turing machine.
-- 
+- **NP**: The problems that can be solved by a [[Quantum Definitions#Nondeterministic Turing Machines|Nondeterministic Turing Machine]] that has a tree height bounded polynomially. **P** 
 
 ## Lecture 13
 

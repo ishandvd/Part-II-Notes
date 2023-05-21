@@ -556,7 +556,14 @@ Modern computers are for all intents and purposes error-free. The same doesn't a
 
 ##### Three-bit repetition code
 
-Cla
+Classically, if we want to transmit a bit, we send three bits sequentially in that state:
+
+$$\begin{align}
+
+0 \to 000 \\
+1 \to 111
+
+\end{align}$$ These can be decoded using a "majority vote". Probability of two or three bits to have been flipped is: $$p_e^` = 3p_e^2$$
 
 ##### Three-qubit bit-flip code
 ##### Three-Qubit phase-flip code

@@ -526,7 +526,8 @@ This can be thought of as a tree, where each branching process represents the va
 ##### Complexity Classes
 
 - **P**: The class of problems that can be decided in polynomial-time on a Turing machine.
-- **NP**: The problems that can be solved by a [[Quantum Definitions#Nondeterministic Turing Machines|Nondeterministic Turing Machine]] that has a tree height bounded polynomially. **P** 
+- **NP**: The problems that can be solved by a [[Quantum Definitions#Nondeterministic Turing Machines|Nondeterministic Turing Machine]] that has a tree height bounded polynomially. **P** represents problems that can be solved using only one specific branch (root -> leaf). Therefore $P \subseteq NP$.
+- 
 
 ## Lecture 13
 

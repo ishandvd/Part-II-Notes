@@ -534,19 +534,11 @@ Quantum Turing machines are like probabilistic Turing machines, but now complex 
 - **BQP**: The set of languages, $L$, for which there is a [[Quantum Definitions#Quantum Turing Machines|quantum Turing machine]], $M$, running in polynomial time with: $$
 P(M~\mathrm{accepts}~w) = \left\{
 \begin{array}{ll}
-	> \frac{2}{3}~\mathrm{if}~w \in L
+	> \frac{2}{3}~\mathrm{if}~w \in L \\
+	< \frac{1}{3}~\mathrm{if} w \notin L
 \end{array}
 \right.
-$$
-
-$$
-\sigma(s,i) = \left\{
-    \begin{array}{ll}
-        \tau_{si} & \mbox{si } \{s,i\} \in E \\
-        \infty & \mbox{sinon.}
-    \end{array}
-\right.
-$$
+$$The choice of $\frac{2}{3}$ is arbitrary; it should be fine as long as we pick a limit $> \frac{1}{2}$. The quantum Turing machine generalises the probabilistic Turing machine, so $$
 
 ## Lecture 13
 

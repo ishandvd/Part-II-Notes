@@ -224,10 +224,13 @@ $$
 Z has the following effect:
 
 $$
-Zket
+Z\ket{0} = \ket{0}, Z\ket{1}, = - \ket{1}
 $$
 
 ##### Measurement
+
+
+
 ##### Phase
 ##### Entangled States
 

@@ -264,10 +264,21 @@ The formalisation behind the fact that we cannot perfectly distinguish between t
 
 ##### No-signalling principle
 
-When measuring one of two entangled qubits, the other collapses, meaning quantum states display non-local behaviour. (Einstein: "")
+When measuring one of two entangled qubits, the other collapses, meaning quantum states display non-local behaviour. (Einstein: "spooky action at a distance"). However, we cannot use this to transfer information faster than the speed-of-light, which would violate the theory of relativity.
+
+Collapsing entanglement cannot be used to transfer information, as proven by the no-signalling principle.
 
 ##### No-cloning principle
+
+We cannot clone qubits.
+
 ##### No-deleting principle
+
+We cannot delete one of two copies of a quantum state, that is, there is no unitary $U$ such that:
+
+
+
+
 
 
 ## Lecture 5

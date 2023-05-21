@@ -52,14 +52,15 @@ $$
 When two particles link together in a certain way no matter how far apart they are in space.
 
 ##### Bell State
+
+Each of the two qubits in the bell state are in equal superposition, however the
+
 ##### Superposition
 
 If a physical system may be in one of many arrangements of particles or fields, then the most general state is a combination of all these possibilities, or, a **superposition** of these.
 
 ##### Interference
-When a subatomic particles interact with and influence themselves and other particles while in a probabilistic superposition state. $\begin{vmatrix}
-
-\end{vmatrix}$
+When a subatomic particles interact with and influence themselves and other particles while in a probabilistic superposition state.
 
 
 ## Lecture 2

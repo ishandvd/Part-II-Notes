@@ -531,14 +531,15 @@ Quantum Turing machines are like probabilistic Turing machines, but now complex 
 
 - **P**: The class of problems that can be decided in polynomial-time on a Turing machine.
 - **NP**: The problems that can be solved by a [[Quantum Definitions#Nondeterministic Turing Machines|Nondeterministic Turing Machine]] that has a tree height bounded polynomially. **P** represents problems that can be solved using only one specific branch (root -> leaf). Therefore $P \subseteq NP$.
-- **BQP**: The set of languages, $L$, for which there is a [[Quantum Definitions#Quantum Turing Machines|quantum Turing machine]], $M$, running in polynomial time with: $$
+- **BPP**: The set of languages, $L$, for which there is a probabilistic Turing machine, $M$, running in polynomial time with:$$
 P(M~\mathrm{accepts}~w) = \left\{
 \begin{array}{ll}
 	> \frac{2}{3}~\mathrm{if}~w \in L \\
 	< \frac{1}{3}~\mathrm{if} w \notin L
 \end{array}
 \right.
-$$The choice of $\frac{2}{3}$ is arbitrary; it should be fine as long as we pick a limit $> \frac{1}{2}$. The quantum Turing machine generalises the probabilistic Turing machine, so $$
+$$
+- **BQP**: The set of languages, $L$, for which there is a [[Quantum Definitions#Quantum Turing Machines|quantum Turing machine]], $M$, running in polynomial time with: The choice of $\frac{2}{3}$ is arbitrary; it should be fine as long as we pick a limit $> \frac{1}{2}$. The quantum Turing machine generalises the probabilistic Turing machine, so $BPP \subseteq BQP$. 
 
 ## Lecture 13
 

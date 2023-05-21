@@ -24,4 +24,6 @@
 
 #### Quantum Chemistry
 
-#### p
+#### Projective Measurements
+
+#### Ground State Energy

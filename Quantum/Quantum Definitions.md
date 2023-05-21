@@ -186,9 +186,13 @@ When $A^{^{\dagger}}A = AA^{^{\dagger}} = I$ .
 
 ##### State Space
 
+The [[Quantum Definitions#Hilbert Space]] that a state lives in (in the context of an isolated physical system) is known as the state space.
 
 
 ##### Evolution
+
+How a system changes over time; useful for describing what the Hamiltonian is for example when doing chemistry.
+
 ##### Pauli Matrices
 ##### Measurement
 ##### Phase

@@ -662,11 +662,3 @@ Extremely general framework, dubbed the grand unifier of quantum algos as each o
 - Factoring
 - Hamiltonian simulation
 Can be cast as instances thereof.
-
-
-##### Quantum Machine Learning
-
-
-
-
-##### Quantum Volume

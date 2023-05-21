@@ -395,6 +395,9 @@ In Deutsch’s algorithm we are not using a quantum computer to evaluate a “cl
 
 ## Lecture 8
 
+##### Quantum Parallelism
+Exploiting the superposition of the computational basis states to do computati
+
 ##### Quantum Search
 ##### Grover's Algorithm
 

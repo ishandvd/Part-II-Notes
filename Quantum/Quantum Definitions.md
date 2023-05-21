@@ -78,6 +78,7 @@
 
 ##### Fourier Transform
 ##### Quantum Fourier Transform
+##### Quantum Phase Estimation
 
 
 

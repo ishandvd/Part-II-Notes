@@ -641,10 +641,17 @@ D-Wave Systems use quantum annealing to solve a single "native" optimisation pro
 
 ##### NISQ
 
-Noise Intermediate-Scale Quantum (computer); 
+Noise Intermediate-Scale Quantum (computer); an era that began when Google demonstrated quantum supremacy.
 
 ##### Quantum Counting
+
+Can be used to estimate the number of marked elements the number of Grover iterates required in unstructured search.
+
+
+
 ##### HHL 
+
+
 ##### Quantum Singular-Value Transform
 ##### Quantum Machine Learning
 ##### Quantum Volume

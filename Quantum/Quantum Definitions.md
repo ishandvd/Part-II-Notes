@@ -382,10 +382,15 @@ Eavesdropping disturbs a shared key; when a third person (Eve) is listening in o
 ##### Deutsch-Jozsa Algorithm
 ##### Constant and Balanced
 
-If a function
+If a function returns the same output, it is constant. If it returns a uniform distribution of outputs, it is balanced.
 
 ##### Query complexity
+
+In Deutsch’s algorithm we are not using a quantum computer to evaluate a “classically difficult” function per se, but rather using quantum phenomena to reduce the **number of queries** we need to make to an unknown function, to ascertain some information thereabout.
+
 ##### Oracles and Black Boxes
+
+
 
 
 ## Lecture 8

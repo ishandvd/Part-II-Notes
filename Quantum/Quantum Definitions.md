@@ -162,8 +162,12 @@ That is, the basis is a minimal collection of vectors where they are all linearl
 
 ##### Eigenvectors and Eigenvalues
 
-If a $n \times n$ matrix, **A** 
+If a $n \times n$ matrix, **A**, has the effect of scaling a given non-zero vector $\ket{v}$ by a constant $\lambda$, then that vector is known as an eigenvector, with corresponding eigenvalue $\lambda$: 
 
+$$
+A \ket{v}  = \lambda\ket{v}
+$$
+The eigenvalues of a matrix are the
 ##### Hermitian
 ##### Unitary
 

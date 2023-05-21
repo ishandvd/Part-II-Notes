@@ -470,7 +470,7 @@ The smallest eigenvalue of the Hamiltonian $H$.
 
 ##### Variational quantum eigensolver
 
-A method for finding the ground state energy by finding 
+A method for finding the ground state energy by finding the smallest eigenvalue of the Hamiltonian.
 
 
 ## Lecture 12

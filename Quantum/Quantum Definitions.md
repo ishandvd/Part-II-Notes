@@ -550,7 +550,9 @@ $$Clearly each probability distribution in a probabilistic Turing machine could 
 
 ##### Quantum Error Correction
 
-
+Modern computeres are for all intents and purposes error-free. The same doesn't apply to quantum computers, therefore error correction is required.
+- Some level of error correction is crucial to achieving satisfactory performance because of the presence of noise.
+- Important to understand the "asymptotic significance" of quantum errors, and the possiblity and efficiency
 
 ##### Three-bit repetition code
 ##### Three-qubit bit-flip code

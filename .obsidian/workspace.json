@@ -4,6 +4,49 @@
     "type": "split",
     "children": [
       {
+        "id": "fe291539f33abf55",
+        "type": "split",
+        "children": [
+          {
+            "id": "7cbdfd5a717c4af1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "abea741e25d9799e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quantum/Theories.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "55bb5f6e6e5abbf0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fc9b12bb0237d716",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quantum/Algorithms.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
         "id": "c64fe1c8c477c640",
         "type": "tabs",
         "children": [
@@ -148,8 +191,10 @@
   },
   "active": "7740faa5f4e56639",
   "lastOpenFiles": [
-    "QFA.svg",
+    "Quantum/Algorithms.md",
+    "Quantum/Theories.md",
     "Quantum/Quantum Definitions.md",
+    "QFA.svg",
     "QFA.svg.xml",
     "Untitled.canvas",
     "Pasted image 20230521110216.png",

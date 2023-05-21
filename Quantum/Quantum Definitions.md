@@ -452,7 +452,17 @@ Finding $r$ such that $x^r~\mathrm{mod}~N=1$.
 Allows us to simulate the evolution of a physical simulation. 
 
 ##### Hamiltonian
+
+A representation of the ground state energy of a physical system. The sum of all the energies e.g. graviational potential, kinetic.
+
 ##### Trotterisation
+
+A method that allows us to do the following where $A$ is a matrix and not just a scalar (which is trivial):
+
+$$
+e^{A_1 + A_2}
+$$
+
 ##### Ground state energy
 ##### Variational quantum eigensolver
 

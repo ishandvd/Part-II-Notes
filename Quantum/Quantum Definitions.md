@@ -84,7 +84,7 @@ a_{11} & \dots & a_{1m} \\
 a_{n1} &  & a_{nm}
 \end{bmatrix}, \\
 A^{^{\dagger}} = (A^*)^T = \begin{bmatrix}
-a_{11}^* & \dots & a_{n1} \\
+a_{11}^* & \dots & a_{n1}^* \\
 \vdots  & \ddots  & \vdots  \\
 a_{1m}^* &  & a_{mn}^*
 \end{bmatrix}
@@ -92,6 +92,18 @@ a_{1m}^* &  & a_{mn}^*
 $$
 
 ##### Dirac Notation
+
+Bra: $$
+\bra{\phi} = \begin{bmatrix}
+a_1 & a_2 & \dots & a_n
+\end{bmatrix}
+$$
+Ket: 
+
+$$
+\ket{\phi} =  
+$$
+
 ##### Inner and Outer Product
 ##### Projector
 ##### Basis

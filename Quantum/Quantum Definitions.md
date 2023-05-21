@@ -57,6 +57,7 @@
 ##### Quantum Key Distribution
 ##### One-time pad
 ##### BB84 Protocol
+##### Eavesdropping
 
 
 ## Lecture 7

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hoare Logic and Model Checking/Hoare Logic.md",
+                "file": "Quantum/Quantum Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hoare Logic and Model Checking/Hoare Logic.md",
+                "file": "Quantum/Quantum Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hoare Logic and Model Checking/Hoare Logic.md",
+                "file": "Quantum/Quantum Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hoare Logic and Model Checking/Hoare Logic.md"
+                "file": "Quantum/Quantum Definitions.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "76e0ff1119f726ef",
   "lastOpenFiles": [
+    "Pasted image 20230521110216.png",
+    "Quantum/Quantum Definitions.md",
+    "Hoare Logic and Model Checking/Hoare Logic.md",
     "Hoare Logic and Model Checking/Separation Logic.md",
     "Hoare Logic and Model Checking/Language Rules.md",
     "Hoare Logic and Model Checking/Dynamic Semantics.md",
     "Hoare Logic and Model Checking/Predicates.md",
-    "Quantum/Quantum Definitions.md",
-    "Pasted image 20230521110216.png",
     "Hoare Logic and Model Checking/Definitions.md",
     "Quantum",
-    "Hoare Logic and Model Checking/Hoare Logic.md",
     "Hoare Logic and Model Checking/HLMC Course.md",
     "Untitled.canvas",
     "Business Studies",

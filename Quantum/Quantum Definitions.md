@@ -641,7 +641,7 @@ D-Wave Systems use quantum annealing to solve a single "native" optimisation pro
 
 ##### NISQ
 
-
+Noise Intermediate-Scale Quantum (computer); 
 
 ##### Quantum Counting
 ##### HHL 

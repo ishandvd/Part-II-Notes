@@ -608,10 +608,16 @@ We use the physical qubits in a two-level concatenated Steane code.
 
 ##### Quantum Adiabatic Theorem
 
-If a quantum system starts in a ground-state, so long as we evolvethe state slowly,
+If a quantum system starts in a ground-state, so long as we evolvethe state slowly, it is likely to remain in a ground-state.
 
 
 ##### Metaheuristics
+
+Used to find "good" approximate solutions to general optimisation problems. A search policy that explores the optimisation function $f(x)$ by evaluating it at certain values of $x$. 
+
+They use the principle that good solutions are likely to be near other good solutions, i.e. the optimisation surface has some smoothness.
+
+
 ##### Exploration vs Exploitation
 ##### Quantum Annealing
 ##### Quantum Tunneling

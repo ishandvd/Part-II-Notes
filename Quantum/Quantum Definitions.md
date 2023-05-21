@@ -1,6 +1,13 @@
 ## Lecture 1
 
 ##### Classical Bit
+
+Similar to how we use 0 and 1 in all other computing, we have:
+
+$$
+0 = mat
+$$
+
 ##### Qubit
 ##### Measurement
 ##### Hadamard Gate
@@ -142,4 +149,6 @@
 ##### NISQ
 ##### Quantum Counting
 ##### HHL 
-##### Quantum Singular
+##### Quantum Singular-Value Transform
+##### Quantum Machine Learning
+##### Quantum Volume

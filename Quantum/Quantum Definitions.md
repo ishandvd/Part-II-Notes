@@ -213,7 +213,18 @@ $$
 X is akin to a NOT gate:
 
 $$
-X\ket{0}  = 
+X\ket{0}  = \ket{1}, X\ket{1} = \ket{0}   
+$$
+
+Y has the following effect:
+
+$$
+Y\ket{0} = i\ket{1} , Y\ket{1}  = i-\ket{0}
+$$
+Z has the following effect:
+
+$$
+Zket
 $$
 
 ##### Measurement

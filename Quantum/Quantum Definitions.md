@@ -413,11 +413,15 @@ Allows us to see the frequency components of signals. Useful for DSP.
 The discrete Fourier transform (DFT) is still widely used. Takes an input vector $x$ and transforms it to an output $y$ of the same length, where y represents the frequencies within $x$:
 
 $$
-y_k = \frac{1}{\sqrt{ N }} \sum_{j=0}^{n-1} 
+y_k = \frac{1}{\sqrt{ N }} \sum_{j=0}^{n-1} x_j e^{2\pi ij k / n}
 $$
+
 
 ##### Quantum Fourier Transform
 ##### Quantum Phase Estimation
+
+A subroutine at the hear of quantum chemistry and many important quantum algorithms. It allows us to determine the phase of the eigenvalues under a unitary matrix.
+
 
 
 

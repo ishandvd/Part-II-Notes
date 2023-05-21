@@ -61,8 +61,26 @@
 
 
 ## Lecture 7
+
+##### Deutsch-Jozsa Algorithm
+##### Constant and Balanced
+##### Query complexity
+##### Oracles and Black Boxes
+
+
 ## Lecture 8
+
+##### Quantum Search
+##### Grover's Algorithm
+
+
 ## Lecture 9
+
+##### Fourier Transform
+##### Quantum Fourier Transform
+
+
+
 ## Lecture 10
 
 ## Lecture 11

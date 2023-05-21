@@ -16,8 +16,16 @@ $$
 
 ##### Qubit
 
-
-
+$$
+0 = \begin{bmatrix}
+1 \\ 0
+\end{bmatrix} = \ket{0}  , 1 = \begin{bmatrix}
+0 \\ 1
+\end{bmatrix} = \ket{1} 
+$$
+$$
+\ket{\psi} = \alpha\ket{0} + \beta 
+$$
 ##### Measurement
 ##### Hadamard Gate
 ##### Entanglement

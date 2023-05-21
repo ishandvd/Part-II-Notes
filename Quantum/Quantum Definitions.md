@@ -577,7 +577,10 @@ Use to detect and recover from phase flips.
 
 ##### Depolarising Channel
 
-In the depolarising channel, a physical qubit is left unchanged with probability $p_e$. It also experiences a bit-flip or phase-with probability $\frac{p_e}{3}$, and experie
+In the depolarising channel, a physical qubit is left unchanged with probability $p_e$. It also experiences a bit-flip or phase-flip with probability $\frac{p_e}{3}$, and experiences both with probability $\frac{p_e}{3}$. Similar to suppression of error in the [[Quantum Definitions#Three-bit repetition code|classical channel]], the Shore code suppressed the error from $p_e$ to $\mathcal{O}(p_e^2)$.
+
+
+
 
 
 ## Lecture 14

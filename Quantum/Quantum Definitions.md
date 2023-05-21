@@ -396,15 +396,23 @@ In Deutsch’s algorithm we are not using a quantum computer to evaluate a “cl
 ## Lecture 8
 
 ##### Quantum Parallelism
-Exploiting the superposition of the computational basis states to do computati
+Exploiting the superposition of the computational basis states to do computation.
 
 ##### Quantum Search
-##### Grover's Algorithm
+Searching an unstructured database with N entries.
 
+##### Grover's Algorithm
+Quantum speedup by a quadratic factor in comparison to a classic computation.
 
 ## Lecture 9
 
 ##### Fourier Transform
+
+Allows us to see the frequency components of signals. Useful for DSP.
+
+The discrete Fourier transform (DFT) is still widely used,
+
+
 ##### Quantum Fourier Transform
 ##### Quantum Phase Estimation
 

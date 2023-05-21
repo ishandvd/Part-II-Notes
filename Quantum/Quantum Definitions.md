@@ -124,7 +124,9 @@ b_n
 = \sum_{i=1}^n a_1^*b_i
 $$
 
-if $\bra{u}\ket{v} = 0$ then $\ket{u}$
+if $\bra{u}\ket{v} = 0$ then $\ket{u}$ and $\ket{v}$ are **orthogonal**.
+
+$|\ket{u}||= \sqrt{ \bra{u}\ket{u} }$ is the **nor**
 
 ##### Projector
 ##### Basis

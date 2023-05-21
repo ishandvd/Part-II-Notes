@@ -294,8 +294,23 @@ Wire a qubits (possible entangled), gates are unitary matrices (e.g. $X,Y,Z$).
 
 ##### SWAP
 
-Let $\ket{\psi_1}\ket{\psi_2} = \alpha\ket{00} + \beta\ket{01} + \gamma\ket{10} + \delta\ket{11}$,
+Let $\ket{\psi_1}\ket{\psi_2} = \alpha\ket{00} + \beta\ket{01} + \gamma\ket{10} + \delta\ket{11}$, which corresponds to vector: $[\alpha, \beta, \gamma, \delta]^T$. We have:
 
+$$
+\mathrm{SWAP} = \begin{bmatrix}
+1 & 0 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 0 & 1
+\end{bmatrix}, \begin{bmatrix}
+\alpha \\
+\beta \\
+\gamma \\
+\delta \\
+
+\end{bmatrix}
+$$
+ 
 
 ##### CNOT
 ##### Universal Gate Set

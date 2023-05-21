@@ -579,13 +579,16 @@ Use to detect and recover from phase flips.
 
 In the depolarising channel, a physical qubit is left unchanged with probability $p_e$. It also experiences a bit-flip or phase-flip with probability $\frac{p_e}{3}$, and experiences both with probability $\frac{p_e}{3}$. Similar to suppression of error in the [[Quantum Definitions#Three-bit repetition code|classical channel]], the Shore code suppressed the error from $p_e$ to $\mathcal{O}(p_e^2)$.
 
-
+**If the noise on each qubit in the depolarising channel is small, then it is likely that no bit or phase flip will have occurred**.
 
 
 
 ## Lecture 14
 
 ##### Fault Tolerance
+
+We must correct 
+
 ##### Steane Code Gates
 ##### Transversatility
 ##### Concatenated Codes

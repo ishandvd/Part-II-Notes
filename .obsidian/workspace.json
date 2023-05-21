@@ -33,8 +33,12 @@
                 "id": "fc9b12bb0237d716",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quantum/Algorithms.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -124,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quantum/Quantum Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quantum/Quantum Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quantum/Quantum Definitions.md"
+              }
             }
           }
         ]
@@ -181,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9b12bb0237d716",
+  "active": "7740faa5f4e56639",
   "lastOpenFiles": [
     "Quantum/Algorithms.md",
     "Quantum/Theories.md",

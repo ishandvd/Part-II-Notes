@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "path:\"Hoare Logic and Model Checking\"",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Business Studies",
+      "color": {
+        "a": 1,
+        "rgb": 13368680
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5262460388334311,
+  "scale": 0.45585128731842023,
   "close": false
 }

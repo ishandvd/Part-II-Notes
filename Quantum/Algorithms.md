@@ -19,4 +19,6 @@
 
 #### Order Finding
 
+#### Variational Quantum Eigensolver
+
 

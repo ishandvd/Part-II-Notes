@@ -27,3 +27,5 @@
 #### Projective Measurements
 
 #### Ground State Energy
+
+#### Sampling and Quantum Supremacy

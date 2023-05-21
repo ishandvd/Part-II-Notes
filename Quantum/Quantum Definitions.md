@@ -655,7 +655,13 @@ Used for approximately solving sparse systems of linear equations. Combines Quan
 
 ##### Quantum Singular-Value Transform
 
-Extremely general framework, dubbed the 
+Extremely general framework, dubbed the grand unifier of quantum algos as each of:
+
+- Matrix inversion
+- Unstructured search
+- Factoring
+- Hamiltonian simulation
+Can be c
 
 
 ##### Quantum Machine Learning

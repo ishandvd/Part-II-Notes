@@ -488,10 +488,16 @@ The *accepted language* is the set of strings of letters from the alphabet s.t. 
 
 ##### Deterministic Finite Automata
 
-For eac
+For each state-letter pair, there is only one outgoing arrow. I.e., given an input string, we will finish at the same state every time.
 
 ##### Nondeterministic finite automata
+
+Can have any number of outgoing arrows for each state-letter pair.
+
 ##### Probabilistic Automata
+
+Essentially Markov chains, with state transitions being probabilistic; The transition matrix contains fractional values such that each column sums to one ($\sump($)
+
 ##### Quantum Automata
 ##### Turing Machines
 ##### Nondeterministic Turing Machines

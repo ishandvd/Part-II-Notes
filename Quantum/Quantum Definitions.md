@@ -436,7 +436,7 @@ Relies on the asymmetry of the cryptography; easy to encrypt the message using t
 
 ##### Shor's algorithm
 
-Quantum algorithm that can factor numbers in polynomial time; best classical algorithm for this is the *number field sieve* which requires $\mathrm{exp}$
+Quantum algorithm that can factor numbers in polynomial time; best classical algorithm for this is the *number field sieve* which requires $\mathrm{exp}(\Theta^{1/3}\mathrm{log}^{2/3}n)$ operations, where $n =lef$
 
 ##### Ordering Finding
 

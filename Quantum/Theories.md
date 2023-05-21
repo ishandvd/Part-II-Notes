@@ -7,4 +7,10 @@
 
 #### No-Signalling Principle
 
-#### 
+#### No-Cloning Principle
+
+#### No-Deleting Principle
+
+#### Quantum Circuits
+
+

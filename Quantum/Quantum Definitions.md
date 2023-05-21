@@ -476,7 +476,20 @@ A method for finding the ground state energy by finding the smallest eigenvalue 
 ## Lecture 12
 
 ##### Finite automata
+
+- A set of $n_s$ states.
+- An input alphabet of size $n_a$.
+- A set of state transitions: usually represented in the form of a $n_s \times n_s$ matrix for each of the $n_a$ letters.
+- An initial "start" state.
+- An "accept" state (marked by a black circle).
+
+The *accepted language* is the set of strings of letters from the alphabet s.t. the final state is the "accept" state.
+
+
 ##### Deterministic Finite Automata
+
+For eac
+
 ##### Nondeterministic finite automata
 ##### Probabilistic Automata
 ##### Quantum Automata

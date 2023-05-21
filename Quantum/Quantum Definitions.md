@@ -259,7 +259,13 @@ This cannot be separated as a tensor product of two qubits. We call CNOT an enta
 ## Lecture 4
 
 ##### Helstrom-Holevo Bound
+
+The formalisation behind the fact that we cannot perfectly distinguish between two non-orthogonal quantum states.
+
 ##### No-signalling principle
+
+When measuring one of two entangled qubits, the other collapses, meaning quantum states display non-local behaviour. (Einstein: "")
+
 ##### No-cloning principle
 ##### No-deleting principle
 

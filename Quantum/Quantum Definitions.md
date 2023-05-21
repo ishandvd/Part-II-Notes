@@ -434,11 +434,15 @@ Relies on the asymmetry of the cryptography; easy to encrypt the message using t
 
 **One-way functions** are easy to perform going forward, but hard to invert. e.g. RSA uses factoring as a one-way function.
 
+These must be hard to invert ON AVERAGE, not just in the worstcase.
+
 ##### Shor's algorithm
 
-Quantum algorithm that can factor numbers in polynomial time; best classical algorithm for this is the *number field sieve* which requires $\mathrm{exp}(\Theta^{1/3}\mathrm{log}^{2/3}n)$ operations, where $n =lef$
+Quantum algorithm that can factor numbers in polynomial time; best classical algorithm for this is the *number field sieve* which requires $\mathrm{exp}(\Theta^{1/3}\mathrm{log}^{2/3}n)$ operations, where $n =\mathrm{ceil}(\mathrm{log}_2N)$, i.e. the number of bits required to express N.
 
 ##### Ordering Finding
+
+
 
 
 ## Lecture 11

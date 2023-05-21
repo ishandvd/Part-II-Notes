@@ -308,12 +308,24 @@ $$
 \gamma \\
 \delta \\
 
+\end{bmatrix} = \mathrm{SWAP} \begin{bmatrix}
+\alpha \\
+\gamma \\
+\beta \\
+\delta \\
+
 \end{bmatrix}
 $$
- 
+SWAP can be constructed from three CNOT gates.
 
 ##### CNOT
+
+A Controlled Not gate that acts on two qubits.
+
 ##### Universal Gate Set
+
+Solovay-Kitaev theorem implies that any circuit containing m CNOTs and arbtrary single qubit unitaries can be approximated to an accuracy $d$
+
 ##### Toffoli
 
 ## Lecture 6

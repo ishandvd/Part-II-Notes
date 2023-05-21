@@ -34,11 +34,17 @@ Measuring a qubit with state $\alpha\ket{0} + \beta\ket{1}$ results in $\ket{0}$
 Introduces superposition to a qubit in the computation basis state.
 
 $$
-H = \frac{1}{}\begin{bmatrix}
+H = \frac{1}{\sqrt{ 2 }}\begin{bmatrix}
 1 & 1 \\
 1 & -1
 \end{bmatrix}
 $$
+Has the following effect on the computation basis states:
+$$
+H \ket{+} \to 
+$$
+
+
 
 ##### Entanglement
 ##### Bell State

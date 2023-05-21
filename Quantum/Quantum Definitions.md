@@ -51,6 +51,14 @@
 ##### Toffoli
 
 ## Lecture 6
+
+##### Teleportation
+##### Superdense Coding
+##### Quantum Key Distribution
+##### One-time pad
+##### BB84 Protocol
+
+
 ## Lecture 7
 ## Lecture 8
 ## Lecture 9

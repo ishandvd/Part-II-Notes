@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ce3ec70dba2659",
-        "type": "split",
+        "id": "c64fe1c8c477c640",
+        "type": "tabs",
         "children": [
           {
-            "id": "c64fe1c8c477c640",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7740faa5f4e56639",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Quantum/Quantum Definitions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "7740faa5f4e56639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum/Quantum Definitions.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "0961c3cde7af5b31",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a4fa73db7141662a",
-                "type": "leaf",
-                "state": {
-                  "type": "diagrams-net",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +148,9 @@
   },
   "active": "7740faa5f4e56639",
   "lastOpenFiles": [
+    "Diagram.svg",
     "Quantum/Quantum Definitions.md",
+    "Diagram.svg.xml",
     "Untitled.canvas",
     "Pasted image 20230521110216.png",
     "Hoare Logic and Model Checking/Hoare Logic.md",

@@ -442,12 +442,15 @@ Quantum algorithm that can factor numbers in polynomial time; best classical alg
 
 ##### Ordering Finding
 
-
+Finding $r$ such that $x^r~\mathrm{mod}~N=1$.
 
 
 ## Lecture 11
 
 ##### Quantum Simulation
+
+Allows us to simulate the evolution of a physical simulation. 
+
 ##### Hamiltonian
 ##### Trotterisation
 ##### Ground state energy

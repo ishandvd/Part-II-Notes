@@ -326,7 +326,24 @@ A Controlled Not gate that acts on two qubits.
 
 Solovay-Kitaev theorem implies that any circuit containing m CNOTs and arbtrary single qubit unitaries can be approximated to an accuracy $\epsilon$ by a circuit using a universal finite gate-set with $\mathcal{O}(m\mathrm{log}^c(m / \epsilon))$ gates where $c \approx2$. 
 
-Only THREE GATES are needed for a universal gat
+Only THREE GATES are needed for a universal gat-set. CNOT, H, and:
+
+$$
+T = \begin{bmatrix}
+1 & 0 \\
+0 & e^{i \pi/4}
+\end{bmatrix}
+$$
+
+**Gottesman-Knill** theorem holds that any circuit containing just X,Y,Z,H,S, and CNOT can be efficiently simulated on a classical computer.
+
+$$
+hi
+
+$$
+
+
+
 
 ##### Toffoli
 

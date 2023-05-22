@@ -39,7 +39,10 @@ In particular, if we have an expression term in a stack ($[\![E]\!](s)$), it is 
 
 $$
 \begin{align}
-[\![-]\!] & : \mathrm{Assertion} \rightarrow \mathcal{P}(\mathrm{Stack}))
+[\![-]\!] & : \mathrm{Assertion} \rightarrow \mathcal{P}(\mathrm{Stack}) \\
+[\![\bot]\!] & = \{s \in \mathrm{Stack} | \bot \} = \emptyset   \\
+[\![\bot]\!] & = \{s \in \mathrm{Stack} | \top \} = \mathrm{Stack} \\
+
 \end{align}
 $$
 

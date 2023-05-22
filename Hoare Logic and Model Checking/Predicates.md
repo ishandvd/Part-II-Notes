@@ -60,7 +60,7 @@ The predicate function $p(t_1, ..., t_n)$ is assumed to be provided along with t
 Our quantifiers $\forall , \exists$ bind logical variables (that is, auxiliary variables like ($x,y$), and all free variables in expression E are program variables (like $X,Y$). Therefore there is no problem with variable capture when using the quantifiers as described in the [[Predicates#Semantics of Assertions|Semantics of Assertions]] section.
 
 - $[\![t[E/X]]\!](s) = [\![t]\!](s[X] \mapsto \mathcal{E}[\![E]\!](s)])$
-That is, the set of predicate terms $t$ that agree with the stack $s$ when substituting all occurrences of X with E is equivalent to the 
+That is, the set of predicate terms $t$ that agree with the stack $s$ when substituting all occurrences of X with E is equivalent to the set of predicate terms $t$ that are valid when we set the
 ##### Modified Program Variables
 
 ##### Free Variables

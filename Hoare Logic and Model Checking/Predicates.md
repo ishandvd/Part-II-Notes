@@ -55,7 +55,7 @@ $s \models P$ is equivalent to $s \in [\![P]\!]$ .
 
 ##### Substitution
 
-Our quantifiers $\forall , \exists$ 
+Our quantifiers $\forall , \exists$ bind logical variables (that is, auxiliary variables like $x,y$)
 
 
 ##### Modified Program Variables

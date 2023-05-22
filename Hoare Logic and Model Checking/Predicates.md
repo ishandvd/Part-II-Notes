@@ -53,12 +53,14 @@ The predicate $[\![p]\!]$ associated to each predicate symbol $p$ is provided al
 
 $s \models P$ is equivalent to $s \in [\![P]\!]$ .
 
-The predicate function $p(t_1, $
+The predicate function $p(t_1, ..., t_n)$ is assumed to be provided along with the implicit signature.
 
 ##### Substitution
 
 Our quantifiers $\forall , \exists$ bind logical variables (that is, auxiliary variables like ($x,y$), and all free variables in expression E are program variables (like $X,Y$). Therefore there is no problem with variable capture when using the quantifiers as described in the [[Predicates#Semantics of Assertions|Semantics of Assertions]] section.
 
+
+$$
 
 ##### Modified Program Variables
 

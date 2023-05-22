@@ -95,17 +95,6 @@ P := [Z + 1]; dispose(Z); dispose(Z + 1); Z := P
 
 ```
 
-$$\begin{flushleft}
-
-Z := \mathrm{alloc}(0, \mathrm{null}) P := Z  \\
-\mathrm{while}~X \neq \mathrm{null}~\mathrm{and}~Y \neq \mathrm{null}~\mathrm{do} \\
-~~~~(U := [X]); V := [Y]; \\
-~~~~~~~~if U \leq V~\mathrm{then}~([P + 1]) := X; X := [X + 1]
-\end{flushleft}
-$$
-
-
-
 
 **Factorial**
 ```

@@ -100,6 +100,13 @@ The part of the heap owned by a given state predicate.
 ##### Framing
 Using the separating conjunction to express separation (similar to the rule of constancy).
 
+##### Free Variables vs Mod
+
+Mod defines a syntactic overapproximates of the set of Program variables that might be modified by a command C.
+
+Free variables on the other hand define the set
+
+
 ## Lecture 5
 
 ##### Pure

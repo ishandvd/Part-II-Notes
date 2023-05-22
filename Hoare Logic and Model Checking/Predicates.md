@@ -47,7 +47,9 @@ $$
 [\![P \Rightarrow Q]\!] & = \{s \in \mathrm{Stack}| s \in [\![P]\!] \Rightarrow s \in [\![Q]\!]\}
 \end{align}
 $$
+![[Pasted image 20230522182522.png]]
 
+The predicate $[\![p]\!]$ associated to each predicate symbol $p$ is provided along with the implicit signature.
 
 ##### Substitution
 

@@ -12,7 +12,7 @@ $$\begin{align}
 
 \mathcal{X} ::= X | x \\
 t ::= \mathcal{X} | f(t_1, ..., t_n) \\
-P, Q ::= 
+P, Q ::= \bot | \top | P \wedge Q | P \lor Q | P \limp
 \end{align}
 $$
 

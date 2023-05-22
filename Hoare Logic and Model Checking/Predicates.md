@@ -51,9 +51,11 @@ $$
 
 The predicate $[\![p]\!]$ associated to each predicate symbol $p$ is provided along with the implicit signature.
 
-$s $
+$s \models P$ is equivalent to $s \in [\![P]\!]$ .
 
 ##### Substitution
+
+Our quantifiers $\forall , \exists$ 
 
 
 ##### Modified Program Variables

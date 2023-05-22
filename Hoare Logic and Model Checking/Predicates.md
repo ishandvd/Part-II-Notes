@@ -10,9 +10,10 @@ Lecture 3 slide 17
 
 $$\begin{align}
 
-\mathcal{X} ::= X | x \\
-t ::= \mathcal{X} | f(t_1, ..., t_n) \\
-P, Q ::= \bot | \top | P \wedge Q | P \lor Q | P \limp
+\mathcal{X} &::= X | x \\
+t &::= \mathcal{X} | f(t_1, ..., t_n) \\
+P, Q &::= \bot | \top | P \wedge Q | P \lor Q | P \Rightarrow  Q  \\
+	|
 \end{align}
 $$
 

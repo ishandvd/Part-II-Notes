@@ -30,11 +30,10 @@ $$\begin{align}
 [\![-]\!](=)  & : \mathrm{Term} \times \mathrm{Stack} \rightarrow \mathbb{Z}  \\
 [\![\mathcal{X}]\!](s)  & = s(\mathcal{X}) \\
 [\![f(t_1, ..., t_n)]\!](s)  & = [\![f]\!]([\![t_n]\!](s),..., [\![t_n]\!](s)) \\
-
 \end{align}
 $$
 
-
+In particular, if we have an expression term in a stack ($[\![E]\!](s)$), it is equivalent to evaluating the semantics of that expression $\mathcal{E}[\![E]\!](s)$. The stack acts as a 
 
 ##### Semantics of Assertions
 

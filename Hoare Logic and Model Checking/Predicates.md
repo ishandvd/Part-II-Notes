@@ -42,7 +42,9 @@ $$
 [\![-]\!] & : \mathrm{Assertion} \rightarrow \mathcal{P}(\mathrm{Stack}) \\
 [\![\bot]\!] & = \{s \in \mathrm{Stack} | \bot \} = \emptyset   \\
 [\![\bot]\!] & = \{s \in \mathrm{Stack} | \top \} = \mathrm{Stack} \\
-[\![P \lor Q]\!] & = \{s \in \mathrm{Stack}| s \in [\![P]\!] \land s \in [\![Q]\!]\} = [\![P]\!] \cap [\![]\!]
+[\![P \lor Q]\!] & = \{s \in \mathrm{Stack}| s \in [\![P]\!] \lor s \in [\![Q]\!]\} = [\![P]\!] \cap [\![Q]\!] \\
+[\![P \lor Q]\!] & = \{s \in \mathrm{Stack}| s \in [\![P]\!] \land s \in [\![Q]\!]\} = [\![P]\!] \cup [\![Q]\!] \\
+[\![P \Rightarrow Q]\!] & = \{s \in \mathrm{Stack}| s \in [\![P]\!] \Rightarrow s \in [\![Q]\!]\}
 \end{align}
 $$
 

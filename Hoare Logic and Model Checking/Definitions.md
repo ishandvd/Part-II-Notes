@@ -104,7 +104,7 @@ Using the separating conjunction to express separation (similar to the rule of c
 
 Mod defines a syntactic overapproximates of the set of Program variables that might be modified by a command C.
 
-Free variables on the other hand define the set
+Free variables on the other hand define the same thing but in relation to the pre-condition or the post-condition. I think.
 
 
 ## Lecture 5

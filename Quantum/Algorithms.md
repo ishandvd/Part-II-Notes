@@ -24,3 +24,5 @@
 #### Three-Qubit Bit-Flip Code
 
 #### Three-Qubit Phase-Flip Code
+
+#### Shore Codes

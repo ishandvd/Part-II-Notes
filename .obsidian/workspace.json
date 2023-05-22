@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Quantum Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Quantum Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum/Algorithms.md"
+                "file": "Quantum/Quantum Definitions.md"
               }
             }
           }
@@ -189,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9b12bb0237d716",
+  "active": "7740faa5f4e56639",
   "lastOpenFiles": [
-    "Quantum/Theories.md",
     "Quantum/Algorithms.md",
+    "Quantum/Theories.md",
     "Quantum/Quantum Definitions.md",
     "QFA.svg",
     "QFA.svg.xml",

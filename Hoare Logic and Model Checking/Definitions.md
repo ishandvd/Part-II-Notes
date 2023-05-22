@@ -98,7 +98,9 @@ A separation logic assertation asserts ownership of resources.
 The part of the heap owned by a given state predicate.
 
 ##### Framing
-Using the separating conjunction to express separation (similar to the rule of constancy).
+Using the separating conjunction to express separation (similar to the rule of constancy). 
+
+This is the core behind the concept of modularity in separation logic; it allows us to prove something about a program C whilst having a larger context.
 
 ##### Free Variables vs Mod
 

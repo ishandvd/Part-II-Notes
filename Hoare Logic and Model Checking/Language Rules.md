@@ -91,7 +91,19 @@ while X != null and Y != null do
 if X = null then ([P + 1] := Y; Y := null)
 else ([P + 1] := X; X := null);
 P := [Z + 1]; dispose(Z); dispose(Z + 1); Z := P
+
+
 ```
+
+$$\begin{align}
+
+Z := \mathrm{alloc}(0, \mathrm{null}) P := Z  \\
+\mathrm{while} & ~X \neq \mathrm{null}~\mathrm{and}~Y \neq \mathrm{null}~\mathrm{do} \\
+& ()
+\end{align}
+$$
+
+
 
 
 **Factorial**
@@ -105,7 +117,7 @@ $$
 \begin{align}
 \mathrm{while}&~X \neq 0~\mathrm{do} \\
 & Y:= Y \times X; \\
-& X
+& X := X - 1;
 \end{align}
 $$
 

@@ -24,7 +24,7 @@ $$
 ##### Semantics of Terms
 
 $$
-[\![]\!]
+
 $$
 
 

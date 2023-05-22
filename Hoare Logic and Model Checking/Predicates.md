@@ -25,8 +25,13 @@ $$
 
 $[\![t]\!](s)$ defines the semantics of a term $t$ in a stack $s$:
 
-$$
-[\![-]\!](=) : \mathrm{Term} \times \mathrm{Stack} rar
+$$\begin{align}
+
+[\![-]\!](=)  & : \mathrm{Term} \times \mathrm{Stack} \rightarrow \mathbb{Z}  \\
+[\![\mathcal{X}]\!](s)  & = s(\mathcal{X}) \\
+[\![f(t_1, ..., t_n)]\!](s)  & = [\![f]\!]([\![t_n]\!](s),..., [\![t_n]\!](s)) \\
+
+\end{align}
 $$
 
 

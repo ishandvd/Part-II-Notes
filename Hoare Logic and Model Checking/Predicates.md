@@ -21,7 +21,7 @@ $$
 
 
 
-##### Semantics of Terms
+##### Semantics of Terms (Move to language rules)
 
 $[\![t]\!](s)$ defines the semantics of a term $t$ in a stack $s$:
 
@@ -36,6 +36,12 @@ $$
 In particular, if we have an expression term in a stack ($[\![E]\!](s)$), it is equivalent to evaluating the semantics of that expression $\mathcal{E}[\![E]\!](s)$. The stack acts as a parameter of the expression, which emphasises the fact that variables in the expression are free.
 
 ##### Semantics of Assertions
+
+$$
+\begin{align}
+[\![-]\!] & : \mathrm{Assertion} \rightarrow \mathcal{P}(\mathrm{Stack}))
+\end{align}
+$$
 
 
 ##### Substitution

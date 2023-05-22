@@ -74,7 +74,7 @@ A total function describin the current value of every program variable.
 Allows us to separate the state predicates into disjoint sets. Permits cocurrent dynamic semantics.
 
 ##### Heap
-Stores the current values of allocated locations.
+Stores the current values of allocated locations. It uses locations, similar to the concept of addresses, whereas the stack maps program variables to values.
 
 ##### Failure
 If the given location is not currently allocated, failure happens.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hoare Logic and Model Checking/Predicates.md",
+                "file": "Hoare Logic and Model Checking/Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hoare Logic and Model Checking/Predicates.md",
+                "file": "Hoare Logic and Model Checking/Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hoare Logic and Model Checking/Predicates.md",
+                "file": "Hoare Logic and Model Checking/Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hoare Logic and Model Checking/Predicates.md"
+                "file": "Hoare Logic and Model Checking/Definitions.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a1e738c1d4eedf0b",
   "lastOpenFiles": [
+    "Hoare Logic and Model Checking/Predicates.md",
     "Pasted image 20230522182522.png",
     "Pasted image 20230522182438.png",
     "Hoare Logic and Model Checking/Language Rules.md",
@@ -162,7 +163,6 @@
     "Hoare Logic and Model Checking/Hoare Logic.md",
     "Hoare Logic and Model Checking/Separation Logic.md",
     "Hoare Logic and Model Checking/Dynamic Semantics.md",
-    "Hoare Logic and Model Checking/Predicates.md",
     "Quantum",
     "Hoare Logic and Model Checking/HLMC Course.md",
     "Business Studies",

@@ -8,6 +8,16 @@ The lectures lay out the assertion syntax and semantics both informally and form
 ##### Assertions Syntax
 Lecture 3 slide 17
 
+$$\begin{align}
+
+\mathcal{X} ::= X | x \\
+t ::= \mathcal{X} | f(t_1, ..., t_n) \\
+P, Q ::= 
+\end{align}
+$$
+
+
+
 ##### Semantics of Terms
 
 ##### Semantics of Assertions

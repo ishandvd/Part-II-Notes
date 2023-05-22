@@ -4,59 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe291539f33abf55",
-        "type": "split",
-        "children": [
-          {
-            "id": "7cbdfd5a717c4af1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "abea741e25d9799e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Quantum/Theories.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "55bb5f6e6e5abbf0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc9b12bb0237d716",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Quantum/Algorithms.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "c64fe1c8c477c640",
+        "id": "247ab747221b7bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "7740faa5f4e56639",
+            "id": "a1e738c1d4eedf0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum/Quantum Definitions.md",
+                "file": "Hoare Logic and Model Checking/Language Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum/Quantum Definitions.md",
+                "file": "Hoare Logic and Model Checking/Language Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum/Quantum Definitions.md",
+                "file": "Hoare Logic and Model Checking/Language Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum/Quantum Definitions.md"
+                "file": "Hoare Logic and Model Checking/Language Rules.md"
               }
             }
           }
@@ -189,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7740faa5f4e56639",
+  "active": "a1e738c1d4eedf0b",
   "lastOpenFiles": [
+    "Hoare Logic and Model Checking/Definitions.md",
+    "Quantum/Quantum Definitions.md",
     "Quantum/Algorithms.md",
     "Quantum/Theories.md",
-    "Quantum/Quantum Definitions.md",
     "QFA.svg",
     "QFA.svg.xml",
     "Untitled.canvas",
@@ -203,7 +161,6 @@
     "Hoare Logic and Model Checking/Language Rules.md",
     "Hoare Logic and Model Checking/Dynamic Semantics.md",
     "Hoare Logic and Model Checking/Predicates.md",
-    "Hoare Logic and Model Checking/Definitions.md",
     "Quantum",
     "Hoare Logic and Model Checking/HLMC Course.md",
     "Business Studies",

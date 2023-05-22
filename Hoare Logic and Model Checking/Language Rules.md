@@ -107,3 +107,11 @@ S = 0;
 while (S + 1) x (S + 1) <= X do
 	S := S + 1
 ```
+
+$$
+\begin{align}
+S & = 0; \\
+& \mathrm{while}~(S+1) \times (S + 1) \leq X~\mathrm{do} \\
+& S := S + 1
+\end{align}
+$$

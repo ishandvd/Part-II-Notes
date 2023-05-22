@@ -23,8 +23,10 @@ $$
 
 ##### Semantics of Terms
 
-$$
+$[\![t]\!](s)$ defines the semantics of a term $t$ in a stack $s$:
 
+$$
+[\![-]\!](=) : \mathrm{Term} \times \mathrm{Stack} rar
 $$
 
 

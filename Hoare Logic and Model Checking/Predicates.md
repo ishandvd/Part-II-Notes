@@ -62,11 +62,12 @@ Our quantifiers $\forall , \exists$ bind logical variables (that is, auxiliary v
 - $[\![t[E/X]]\!](s) = [\![t]\!](s[X \mapsto \mathcal{E}[\![E]\!](s)])$
 	That is, the set of predicate terms $t$ that agree with the stack $s$ when substituting all occurrences of X with E is equivalent to the set of predicate terms $t$ that are valid when we set the value of the program variable $X$ to the evaluated expression E ($\mathcal{E}[\![E]\!](s)$).
 
-	This can be proven by induction on t by using the the substitution property for expression
+	This can be proven by induction on t by using the substitution property for expressions.
 - $s \in [\![P[E/X]]\!] \Leftrightarrow s[X \mapsto \mathcal{E}[\![E]\!](s)] \in [\![P]\!]$
 	Meaning, if $s$ is in the set of valid predicates $P$ with X substituted with E, then $s$ with the value of the program variable $X$ set to the evaluated expression E ($\mathcal{E}[\![E]\!](s)$) is in the set of valid predicates $P$ (where $P$ has no substitutions).
+	The inverse implication also applies.
 
-Both of these can be proven by induction on t and P respectively; 
+Both of these can be proven by induction on t and P respectively.
  
 ##### Modified Program Variables
 

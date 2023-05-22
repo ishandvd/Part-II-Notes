@@ -13,7 +13,7 @@ $$\begin{align}
 \mathcal{X} &::= X | x \\
 t &::= \mathcal{X} | f(t_1, ..., t_n) ~n \geq 0\\
 P, Q &::= \bot | \top | P \wedge Q | P \lor Q | P \Rightarrow  Q  \\
-	&| \forall x.P | \exists x.P | t_1 = t_2 | p(t_1, ..., t_n) ~ n\geq0 \\ \\
+	&| \forall x.P | \exists x.P | t_1 = t_2 | p(t_1, ..., t_n) ~ n\geq0 \\
 \lnot  &= P \Rightarrow \bot   
 
 \end{align}
@@ -22,6 +22,12 @@ $$
 
 
 ##### Semantics of Terms
+
+$$
+[\![]\!]
+$$
+
+
 
 ##### Semantics of Assertions
 

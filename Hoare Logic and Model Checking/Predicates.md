@@ -51,6 +51,8 @@ $$
 
 The predicate $[\![p]\!]$ associated to each predicate symbol $p$ is provided along with the implicit signature.
 
+$s $
+
 ##### Substitution
 
 

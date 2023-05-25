@@ -1,3 +1,5 @@
 
-1. Write down exactly what you're required to prove immediately. Find the definition from your notes and get it written down. This really helps with step 2.
-2. Be extremely clear with all the assumptions you're making; this isn't just to help the person reading your proof, but also to help with making your reasoning so much easier. If you know exactly what you're allowed to assume, you can maxi
+1. **(RTP)** **Write down exactly what you're required to prove immediately**. Find the definition from your notes and get it written down. This really helps with step 2.
+2. **Be extremely clear with all the assumptions you're making**; this isn't just to help the person reading your proof, but also to help with making your reasoning so much easier. If you know exactly what you're allowed to assume, you can maximise the tools you have to make deductions.
+3. Start exploring. Proofs can require creativity, they can require ingenuity. This means loads and loads of scratch work. I find it tempting to do all the thinking in my head, mostly out of laziness. But it really helps to write down as much as you can (whilst not overwriting as it can slow you down).
+4. Eventually you'll figure out a chain of thinking that will 

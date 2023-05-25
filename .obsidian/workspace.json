@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hoare Logic and Model Checking/Definitions.md",
+                "file": "Hoare Logic and Model Checking/Hoare Logic Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Tips for Writing Proofs.md",
+                "file": "Cryptography/Cryptography Definitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Tips for Writing Proofs.md",
+                "file": "Cryptography/Cryptography Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Tips for Writing Proofs.md",
+                "file": "Cryptography/Cryptography Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Tips for Writing Proofs.md"
+                "file": "Cryptography/Cryptography Definitions.md"
               }
             }
           }
@@ -171,12 +171,14 @@
   },
   "active": "e754d60cf96b1a8c",
   "lastOpenFiles": [
+    "Hoare Logic and Model Checking/Hoare Logic Definitions.md",
+    "Cryptography/Cryptography Definitions.md",
     "General Tips for Writing Proofs.md",
+    "Cryptography",
     "Hoare Logic and Model Checking/Predicates.md",
     "Pasted image 20230522182522.png",
     "Pasted image 20230522182438.png",
     "Hoare Logic and Model Checking/Language Rules.md",
-    "Hoare Logic and Model Checking/Definitions.md",
     "Quantum/Quantum Definitions.md",
     "Quantum/Algorithms.md",
     "Quantum/Theories.md",

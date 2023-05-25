@@ -37,7 +37,7 @@ The process used to determine whether a program is valid.
 ## Lecture 3
 
 ##### Dynamic Semantics
-Explains the dynamic execution of [[Definitions#Partial Correctness Triple]]. Uses the small-step operational semantics used in IB semantics.
+Explains the dynamic execution of [[Hoare Logic Definitions#Partial Correctness Triple]]. Uses the small-step operational semantics used in IB semantics.
 
 
 ##### Safety
@@ -118,7 +118,7 @@ Assertion is pure when it doesn't talk about the heap.
 Abstract data types, like lists.
 
 ##### Representation Predicates
-State predicates used to represent [[Definitions#ADTs]] like lists.
+State predicates used to represent [[Hoare Logic Definitions#ADTs]] like lists.
 
 ##### Partial Lists
 Part of a list.

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d22670ec214964a0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e738c1d4eedf0b",
+  "active": "d22670ec214964a0",
   "lastOpenFiles": [
     "Hoare Logic and Model Checking/Predicates.md",
     "Pasted image 20230522182522.png",

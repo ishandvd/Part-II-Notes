@@ -23,7 +23,15 @@ Considerations for company:
 3. Protecting the idea
 
 - **IPR**
-- **Valuation from**
+- **Valuation from IPR**
+
+4. Writing the business plan
+
+- **Venture capital Criteria**
+- **SWOT**
+- **Management team**
+- 
+
 
 ## Money and Legal Affairs
 

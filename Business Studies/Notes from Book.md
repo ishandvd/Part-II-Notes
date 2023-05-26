@@ -60,6 +60,15 @@ Considerations for company:
 
 9. **Managing People**
 
+- Management theories
+- Heirarchy of Needs
+- Developing a team
+- Models for teamwork
+
+10. **Managing Projects**
+
+- Developmen
+
 
 ## **Marketing and Selling**
 

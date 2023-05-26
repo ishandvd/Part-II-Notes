@@ -18,6 +18,15 @@
 
 # Section 8 - DNA Computing
 
+### Problem Outlines
+##### Hamiltonian Problem
+
+##### Random Access in Large-Scale DNA Data Storage
+
+#### Adleman's Computation Approach
+
+
+
 # Section 9 - Simulations
 
 ### Problem Outlines

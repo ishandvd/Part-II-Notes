@@ -37,6 +37,7 @@
 
 - **Debt and equity**
 - sources of finance
+- 
 
 7. **Legal issues**
 - Tort etc.

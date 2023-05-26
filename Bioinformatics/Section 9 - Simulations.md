@@ -3,8 +3,12 @@
 
 # Section 2 - Alignment
 
+##### Global Alignment Problem
+##### Local Alignment Problem
 ##### Middle Edge Problem
 
+##### Needleman-Wunsch Algorithm
+##### Smith-Waterman Algorithm
 ##### Banded Dynamic Programming
 ##### Divide and Conquer Approach to Sequence Alignment
 ##### Linear Space Alignment Algorithm

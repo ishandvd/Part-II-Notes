@@ -50,9 +50,16 @@ Considerations for company:
 - Tort etc.
 - Employment law
 
-8. 
+8. **Setting up and recruiting**
+- **UK Company types
+- Interviewing
+- Packages
+- 
 
 ## **People, projects, and products**
+
+9. **Managing People**
+
 
 ## **Marketing and Selling**
 

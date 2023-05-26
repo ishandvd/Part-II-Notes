@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Studies/Notes from Doing PP Questions.md",
+                "file": "Bioinformatics/Section 9 - Simulations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Studies/Notes from Doing PP Questions.md",
+                "file": "Bioinformatics/Section 9 - Simulations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Studies/Notes from Doing PP Questions.md",
+                "file": "Bioinformatics/Section 9 - Simulations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Studies/Notes from Doing PP Questions.md"
+                "file": "Bioinformatics/Section 9 - Simulations.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e171b20c25033547",
   "lastOpenFiles": [
-    "Some.md",
     "Business Studies/Notes from Doing PP Questions.md",
+    "Some.md",
     "Business Studies/Business Studies.md",
     "Business Studies/Money Concepts.md",
     "Business Studies/Headers from Book.md",

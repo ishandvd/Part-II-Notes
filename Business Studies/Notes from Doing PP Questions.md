@@ -4,4 +4,4 @@ Is loan financing: can be in the form of using credit cards, overdrafts, mortgag
 You pay back the principle with some form of interest over a fixed period of time.
 
 ##### Equity Financing
-Selling a share of your company
+Selling a share of your company. Future value of the equity

@@ -15,6 +15,12 @@
 # Section 6 - Genome Assembly
 
 # Section 7 - Parts Identification
+##### Identifying protein parts
+
+
+##### Viterbi
+##### Forward
+##### Backward
 
 # Section 8 - DNA Computing
 

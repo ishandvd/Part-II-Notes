@@ -3,10 +3,12 @@
 
 # Section 2 - Alignment
 
+##### Longest Common Subsequence
 ##### Global Alignment Problem
 ##### Local Alignment Problem
 ##### Middle Edge Problem
 
+##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 ##### Smith-Waterman Algorithm
 ##### Banded Dynamic Programming

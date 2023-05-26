@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Studies/Money Concepts.md",
+                "file": "Business Studies/Headers from Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Studies/Money Concepts.md",
+                "file": "Business Studies/Headers from Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Studies/Money Concepts.md"
+                "file": "Business Studies/Headers from Book.md"
               }
             }
           }
@@ -164,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4564dad943e9bc3a",
+  "active": "e754d60cf96b1a8c",
   "lastOpenFiles": [
-    "Business Studies/Headers from Book.md",
     "Business Studies/Money Concepts.md",
+    "Business Studies/Headers from Book.md",
     "Business Studies/Business Studies.md",
     "Bioinformatics/Section 9 - Simulations.md",
     "Cryptography/Cryptography Definitions.md",

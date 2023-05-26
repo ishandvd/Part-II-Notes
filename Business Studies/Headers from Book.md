@@ -18,7 +18,7 @@
 - IPR
 - Valuation from IPR
 
-4. Writing the business plan
+4. **Writing the business plan**
 
 - Venture capital Criteria
 - SWOT

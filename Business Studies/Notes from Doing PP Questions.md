@@ -1,5 +1,5 @@
 ## Overall Comments
-[https://www.cl.cam.ac.uk/teaching/exams/solutions/2018/2018-p27-q04-solutions.pdf](Some answers) 
+[Some answers](https://www.cl.cam.ac.uk/teaching/exams/solutions/2018/2018-p27-q04-solutions.pdf) use outside the box thinking to answer questions. E.g. if asked how you'd finance a working capital requirement, you can restructure the information given ("I would renegotiate the contract so that I get paid upfront to account for the delay of the first ")
 
 
 

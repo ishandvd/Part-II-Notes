@@ -13,6 +13,11 @@
 
 
 # Section 6 - Genome Assembly
+##### Multiple Pattern Matching Problem
+
+
+##### Suffix Array
+##### Burrows-Wheeler Transform (BWT)
 
 # Section 7 - Parts Identification
 ##### Identifying protein parts

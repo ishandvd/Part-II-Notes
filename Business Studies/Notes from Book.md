@@ -38,6 +38,8 @@ Considerations for company:
 
 5. **Creating the budget**
 - **Accounting** - goes into really good detail about double entry, solvency, etc.
+- **Methods of assessing a business' financials**
+- **Moving towards profitability**
 - 
 
 ## **People, projects, and products**

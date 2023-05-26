@@ -89,7 +89,5 @@
 
 # Section 9 - Simulations
 
-### Problem Outlines
-
 
 #### Doob-Gillespie Algorithm

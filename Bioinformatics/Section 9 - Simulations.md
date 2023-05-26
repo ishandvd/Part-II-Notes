@@ -10,7 +10,11 @@
 # Section 4 - Clustering
 
 # Section 5 - Genome Sequencing
+##### String Reconstruction from Read-Pairs Problem
 
+
+##### Eulerian Cycles and 
+##### Paired De Bruijn Graphs
 
 # Section 6 - Genome Assembly
 

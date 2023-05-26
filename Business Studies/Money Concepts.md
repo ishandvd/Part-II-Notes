@@ -26,7 +26,7 @@ Don't question the way accountants do things.
 Every **debit and every credit** will eventually appear in either a *balance sheet* or a 
 *profit and loss account*.
 
-- **Boundaries**: 
+- **Boundaries**: Need a well-defined and consistent boundary of what is being accounted for. Need to define: (1) *the entity*: e.g. the company, the department. needs to be same in each period. (2) *periodicity*: The period to which these accounts refer to, e.g. mo
 - **Measurement**: 
 - **Ethics**:
 

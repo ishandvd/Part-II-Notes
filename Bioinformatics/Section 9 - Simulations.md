@@ -3,9 +3,12 @@
 
 # Section 2 - Alignment
 
+##### Middle Edge Problem
 
-
-##### Four-Russian Alg
+##### Banded Dynamic Programming
+##### Divide and Conquer Approach to Sequence Alignment
+##### Linear Space Alignment Algorithm
+##### Four-Russian Algorithm
 ##### Nussinov Folding Algorithm
 
 # Section 3 - Building Trees
@@ -72,9 +75,7 @@
 
 # Section 8 - DNA Computing
 
-### Problem Outlines
 ##### Hamiltonian Problem
-
 ##### Random Access in Large-Scale DNA Data Storage
 
 #### Adleman's Computation Approach

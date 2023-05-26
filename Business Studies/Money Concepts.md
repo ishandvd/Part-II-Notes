@@ -54,7 +54,7 @@ Every **debit and every credit** will eventually appear in either a *balance she
 
 #### Cash Flow Statement
 
-
+Give an indication of how much working capt
 
 #### Interpreting Accounts
 

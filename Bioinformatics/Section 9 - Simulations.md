@@ -9,7 +9,12 @@
 
 # Section 4 - Clustering
 
-##### Expectation Max
+##### Coin Flipping Problem
+
+##### Lloyd Algorithm
+##### Soft vs Hard Clustering
+##### K-means Clustering Algorithm
+##### Expectation Maximisation Algorithm
 ##### Hierarchical Clustering
 ##### Markov Clustering Algorithm
 ##### Louvain Clustering

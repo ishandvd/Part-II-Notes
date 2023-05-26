@@ -105,4 +105,12 @@ Considerations for company:
 
 ## **Growth and Exit**
 
-- Horizonat
+
+16. **Coping with Growth**
+- Horizontal vs vertical growth
+- Managing change
+
+17. **Valuation**
+
+- The concept of value: buying and selling
+- Valuation methods

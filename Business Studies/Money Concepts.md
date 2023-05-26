@@ -60,7 +60,10 @@ Give an indication of how much working capital a company has bills. Important as
 
 1. **Quick look**: at p&l statement, balance sheet and cash flow.
 2. **Financial summary trend**: Is teh company growing, stagnating, or declining?
-3. **Notes to accounts**: What do these say about sales trends, different p
+3. **Notes to accounts**: What do these say about sales trends, different parts of the business, geographical spread, and other special factors.
+4. **Chairman's statement**: Can give info on contingent liabilities
+5. **Auditor's reports**: Alarms bells if this differs at all from usual unqualified approval.
+6. **P&l, balance sheet, cash flow:**
 
 #### Measuring Profit
 

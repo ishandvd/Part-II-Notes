@@ -95,8 +95,14 @@ Considerations for company:
 
 14. **Reaching the Market**
 
+- Mail order requirements
 
+15. **How to sell**
+
+- Stages in selling
 
 
 
 ## **Growth and Exit**
+
+- Horizonat

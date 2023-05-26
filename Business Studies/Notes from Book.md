@@ -40,7 +40,17 @@ Considerations for company:
 - **Accounting** - goes into really good detail about double entry, solvency, etc.
 - **Methods of assessing a business' financials**
 - **Moving towards profitability**
-- 
+
+6. **Raising the money**
+
+- **Debt and equity**
+- sources of finance
+
+7. **Legal issues**
+- Tort etc.
+- Employment law
+
+8. 
 
 ## **People, projects, and products**
 

@@ -16,6 +16,15 @@ Considerations for company:
 
 2. Developing the idea
 
+- ***Identifying Risk***
+
+(A few equations here, and a story on page 34)
+
+3. Protecting the idea
+
+- **IPR**
+- **Valuation from**
+
 ## Money and Legal Affairs
 
 ## **People, projects, and products**

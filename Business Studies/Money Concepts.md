@@ -23,8 +23,14 @@ Buying something increases value of stock but decreases value in account and vic
 
 Don't question the way accountants do things.
 
+Every **debit and every credit** will eventually appear in either a *balance sheet* or a *profit and loss account*.
 
 #### Profit and Loss Account
+
+
+
+
+
 
 #### Balance Sheet
 

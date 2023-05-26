@@ -6,10 +6,18 @@
 
 # Section 3 - Building Trees
 
+##### Small Par
+##### Large Parsimony
+
+##### Tree Validation: Bootstrap Algorithm
+##### Progressive Alignment Algorithm
 
 # Section 4 - Clustering
 
+##### Clustering Problem
+##### K-Center Clustering Problem
 ##### Coin Flipping Problem
+
 
 ##### Lloyd Algorithm
 ##### Soft vs Hard Clustering

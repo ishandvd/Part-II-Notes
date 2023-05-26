@@ -26,6 +26,7 @@ Don't question the way accountants do things.
 Every **debit and every credit** will eventually appear in either a *balance sheet* or a *profit and loss account*.
 
 #### Profit and Loss Account
+(applies to the balance sheet too): If you incr
 
 | Debit                                                                        | Credit                                    |
 |------------------------------------------------------------------------------|-------------------------------------------|
@@ -38,7 +39,12 @@ Every **debit and every credit** will eventually appear in either a *balance she
 
 #### Balance Sheet
 
-
+| Debit                              | Credit                                   |
+|------------------------------------|------------------------------------------|
+| Fixed assets (e.g. computer, car)  | Creditors (people you owe money to)      |
+| Debtors (peoplw who owe you money) | Loans (banks you owe money)              |
+| Stock (goods for resale)           | Capital (the money you put in)           |
+| Bank (assuming a positive balance) | Retained profit (the profit made so far) |
 
 
 #### Cash Flow Statement

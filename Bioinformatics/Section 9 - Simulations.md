@@ -6,9 +6,13 @@
 
 # Section 3 - Building Trees
 
-##### Small Par
-##### Large Parsimony
+##### Least-Squares Distance-Based Phylogeny Problem
+##### Small Parsimony
+##### Large Parsimony Problem
 
+##### Additive Phylogeny
+##### UPGMA Algorithm
+##### Neighbour-Joining Algorithm
 ##### Tree Validation: Bootstrap Algorithm
 ##### Progressive Alignment Algorithm
 

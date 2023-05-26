@@ -54,9 +54,13 @@ Every **debit and every credit** will eventually appear in either a *balance she
 
 #### Cash Flow Statement
 
-Give an indication of how much working capt
+Give an indication of how much working capital a company has bills. Important as we must maintain **solvency**.
 
 #### Interpreting Accounts
+
+1. **Quick look**: at p&l statement, balance sheet and cash flow.
+2. **Financial summary trend**: Is teh company growing, stagnating, or declining?
+3. **Notes to accounts**: What do these say about sales trends, different p
 
 #### Measuring Profit
 

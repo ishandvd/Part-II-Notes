@@ -77,7 +77,15 @@ Considerations for company:
 - Crossing the chasm
 - **ACCTO**
 - SAAS
-- 
+
+12. **Quality and Maintenance**
+
+- Gresham's law
+- Documentation
+
+13. **Reading the market**
+
+
 
 
 ## **Marketing and Selling**

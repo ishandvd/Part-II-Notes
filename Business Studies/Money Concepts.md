@@ -27,12 +27,19 @@ Every **debit and every credit** will eventually appear in either a *balance she
 
 #### Profit and Loss Account
 
-
+| Debit                                                                        | Credit                                    |
+|------------------------------------------------------------------------------|-------------------------------------------|
+| Cost of goods sold (all goods for resale minus any stocks left at the time). | Sales (invoices raised or cash recieved). |
+| Expenses (All the costs including wages)                                     |                                           |
+| Profit (always a balancing figure)                                           |                                           |
 
 
 
 
 #### Balance Sheet
+
+
+
 
 #### Cash Flow Statement
 

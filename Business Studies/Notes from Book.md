@@ -1,12 +1,8 @@
 ## Business Plan
 
-1. Getting an idea
-Considerations for company:
-- fun or profit
-- size
-- Timescale
-- Risk and reward
-- Who needs it
+1. **Getting an idea**
+
+- Considerations for company
 - FAB: Features, advantages, benefits
 - Types of business
 - Business Models
@@ -19,23 +15,22 @@ Considerations for company:
 
 3. **Protecting the idea**
 
-- **IPR**
-- **Valuation from IPR**
+- IPR
+- Valuation from IPR
 
 4. Writing the business plan
 
-- **Venture capital Criteria**
-- **SWOT**
-- **Management team**
-- **Business plan**
-- 
-
+- Venture capital Criteria
+- SWOT
+- Management team
+- Business plan
 
 ## Money and Legal Affairs
 
 5. **Creating the budget**
-- **Accounting** - goes into really good detail about double entry, solvency, etc.
-- **Methods of assessing a business' financials**
+
+- **Accounting** - goes into really good detail about double entry, solvency, etc. *
+- **Methods of assessing a business' financials** *
 - **Moving towards profitability**
 
 6. **Raising the money**
@@ -87,8 +82,8 @@ Considerations for company:
 
 - Product or service requirements
 - Pricing
-- Economics
-- Market characteristics
+- Economics *
+- Market characteristics *
 
 14. **Reaching the Market**
 
@@ -117,4 +112,3 @@ Considerations for company:
 - Wild flower model
 - Acquisition vs Flotation
 - Financial Instruments
-- 

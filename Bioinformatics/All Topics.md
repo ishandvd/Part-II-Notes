@@ -2,15 +2,16 @@
 
 
 # Section 2 - Alignment
-
-##### Longest Common Subsequence
+##### Sequence Alignment
 ##### Global Alignment Problem
 ##### Local Alignment Problem
 ##### Middle Edge Problem
 
+##### Longest Common Subsequence
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 ##### Smith-Waterman Algorithm
+##### Hirshberg Algorithm
 ##### Banded Dynamic Programming
 ##### Divide and Conquer Approach to Sequence Alignment
 ##### Linear Space Alignment Algorithm
@@ -60,9 +61,7 @@
 # Section 6 - Genome Assembly
 
 ##### Read Mapping
-
 ##### Single Pattern Matching Problem
-
 ##### Multiple Pattern Matching Problem
 
 ##### Prefix Trie

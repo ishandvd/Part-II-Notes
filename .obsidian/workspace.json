@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics/Section 9 - Simulations.md",
+                "file": "Bioinformatics/All Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/Section 9 - Simulations.md",
+                "file": "Bioinformatics/All Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/Section 9 - Simulations.md",
+                "file": "Bioinformatics/All Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatics/Section 9 - Simulations.md"
+                "file": "Bioinformatics/All Topics.md"
               }
             }
           }
@@ -154,7 +154,7 @@
     "Business Studies/Business Studies.md",
     "Business Studies/Money Concepts.md",
     "Business Studies/Headers from Book.md",
-    "Bioinformatics/Section 9 - Simulations.md",
+    "Bioinformatics/All Topics.md",
     "Cryptography/Cryptography Definitions.md",
     "Bioinformatics",
     "Hoare Logic and Model Checking/Hoare Logic Definitions.md",

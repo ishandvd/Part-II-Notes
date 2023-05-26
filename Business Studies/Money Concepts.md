@@ -26,7 +26,7 @@ Don't question the way accountants do things.
 Every **debit and every credit** will eventually appear in either a *balance sheet* or a *profit and loss account*.
 
 #### Profit and Loss Account
-(applies to the balance sheet too): If you incr
+(applies to the balance sheet too): If you increase debit, the must increase a credit or decrease another debit by the same amount. Vice versa for increasing a credit.
 
 | Debit                                                                        | Credit                                    |
 |------------------------------------------------------------------------------|-------------------------------------------|

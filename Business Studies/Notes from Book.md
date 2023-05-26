@@ -1,20 +1,27 @@
-1. **Business Plan**
+## Business Plan
 
+1. Getting an idea
 Considerations for company:
 - fun or profit
 - size
 - Timescale
 - Risk and reward
+- Who needs it
 
-**FAB: Fea**
+**FAB: Features, advantages, benefits**
+
+**Types of business**
+
+**Business Models**
+
+2. Developing the idea
+
+## Money and Legal Affairs
+
+## **People, projects, and products**
+
+## **Marketing and Selling**
 
 
-2. **Money and Legal Affairs**
 
-3. **People, projects, and products**
-
-4. **Marketing and Selling**
-
-
-
-5. **Growth and Exit**
+## **Growth and Exit**

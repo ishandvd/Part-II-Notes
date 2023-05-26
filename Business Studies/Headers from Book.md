@@ -83,7 +83,7 @@
 - Product or service requirements
 - Pricing
 - [[Money Concepts#Economic Theories|Economic Theories]]
-- [[Money Concepts]]
+- [[Money Concepts#Market Characteristics|Market Characteristics]]
 
 14. **Reaching the Market**
 
@@ -105,7 +105,7 @@
 17. **Valuation**
 
 - The concept of value: buying and selling
-- Valuation methods: DCF, etc. *
+- [[Money Concepts#Valuation Methods|Valuation Methods]]
 
 18. **Exit Routes**
 

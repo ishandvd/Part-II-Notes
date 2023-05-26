@@ -2,6 +2,10 @@
 ### Accounting
 
 
+
 ### Economic Theories
 
-### Market Characteristics
+### Market 
+
+
+### Valuation Methods

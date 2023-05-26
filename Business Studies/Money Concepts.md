@@ -15,11 +15,13 @@ You must:
 
 Devised as a way of checking against error before computers. Money entered twice, once as the source and once as the sink. Should add to zero at the end.
 
-Buying something increases value o 
+Buying something increases value of stock but decreases value in account and vice versa for selling.
+
+**Big ledger**: LHS has positive entries: **debits**, this is, money received or due to be received. RHS has **Credits**: money paid by the business, or owed by the business. The two totals should be equal
 
 #### Good Principles
 
-
+Don't question the way accountants do things.
 
 
 #### Profit and Loss Account

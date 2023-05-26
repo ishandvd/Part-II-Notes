@@ -13,9 +13,16 @@
 
 
 # Section 6 - Genome Assembly
+
+##### Read Mapping
+
+##### Single Pattern Matching Problem
+
 ##### Multiple Pattern Matching Problem
 
-
+##### Prefix Trie
+##### Suffix Trie and Pattern Matching
+##### Run Length encoding
 ##### Suffix Array
 ##### Burrows-Wheeler Transform (BWT)
 

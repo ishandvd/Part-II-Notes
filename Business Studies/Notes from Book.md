@@ -71,6 +71,12 @@ Considerations for company:
 - PERTT and GANTT charts
 - 1:3:10 rule, 90% complete 90% of the time, eighty percent rule
 - Bug reports
+
+11. **From prototype to product**
+
+- Crossing the chasm
+- **ACCTO**
+- SAAS
 - 
 
 

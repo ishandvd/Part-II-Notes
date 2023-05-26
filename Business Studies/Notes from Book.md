@@ -30,10 +30,15 @@ Considerations for company:
 - **Venture capital Criteria**
 - **SWOT**
 - **Management team**
+- **Business plan**
 - 
 
 
 ## Money and Legal Affairs
+
+5. **Creating the budget**
+- **Accounting** - goes into really good detail about double entry, solvency, etc.
+- 
 
 ## **People, projects, and products**
 

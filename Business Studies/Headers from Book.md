@@ -29,7 +29,7 @@
 
 5. **Creating the budget**
 
-- **Accounting** - goes into really good detail about double entry, solvency, etc. *
+- [[Money Concepts#Accounting|Accounting]]
 - **Methods of assessing a business' financials** *
 - **Moving towards profitability**
 
@@ -82,8 +82,8 @@
 
 - Product or service requirements
 - Pricing
-- Economics *
-- Market characteristics *
+- [[Money Concepts#Economic Theories|Economic Theories]]
+- [[Money Concepts]]
 
 14. **Reaching the Market**
 

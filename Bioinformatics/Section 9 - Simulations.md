@@ -11,9 +11,9 @@
 
 # Section 5 - Genome Sequencing
 ##### String Reconstruction from Read-Pairs Problem
+##### Eulerian Path Problem (and Hamiltonian)
+##### Eulerian Cycle Problem (and Hamiltonian)
 
-
-##### Eulerian Cycles and 
 ##### Paired De Bruijn Graphs
 
 # Section 6 - Genome Assembly

@@ -9,7 +9,15 @@
 
 # Section 4 - Clustering
 
+##### Expectation Max
+##### Hierarchical Clustering
+##### Markov Clustering Algorithm
+##### Louvain Clustering
+##### Leiden Clustering
+
 # Section 5 - Genome Sequencing
+
+##### K-Mer Composition Probem
 ##### String Reconstruction from Read-Pairs Problem
 ##### Eulerian Path Problem (and Hamiltonian)
 ##### Eulerian Cycle Problem (and Hamiltonian)

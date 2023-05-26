@@ -4,12 +4,19 @@
 # Section 2 - Alignment
 
 
+
+##### Four-Russian Alg
+##### Nussinov Folding Algorithm
+
 # Section 3 - Building Trees
 
+##### Limb Length Problem
+##### Distance-Based Phylogeny Problem
 ##### Least-Squares Distance-Based Phylogeny Problem
 ##### Small Parsimony
 ##### Large Parsimony Problem
 
+##### Limb Length Theorem
 ##### Additive Phylogeny
 ##### UPGMA Algorithm
 ##### Neighbour-Joining Algorithm

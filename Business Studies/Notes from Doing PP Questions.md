@@ -10,4 +10,11 @@ If the company becomes insolvent then debt repayment has priority over equity.
 
 ##### Loan vs Overdraft
 
-**Loan**: amount is drawn down over a fixed period of t 
+**Loan**: amount paid upfront and drawn down over a fixed period of time, regardless of how much money is needed over time. Interest is paid.
+
+**Overdraft**: Can draw down a debt whenever needed, with interest paid on the amount drawn at any given time.
+
+
+##### Drawing Cash flow statements
+
+- Assume a two month (6)

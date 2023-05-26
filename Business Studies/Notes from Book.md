@@ -83,12 +83,19 @@ Considerations for company:
 - Gresham's law
 - Documentation
 
-13. **Reading the market**
-
-
-
 
 ## **Marketing and Selling**
+
+13. **Reading the market**
+
+- Product or service requirements
+- Pricing
+- Economics
+- Market characteristics
+
+14. **Reaching the Market**
+
+
 
 
 

@@ -7,12 +7,9 @@ Considerations for company:
 - Timescale
 - Risk and reward
 - Who needs it
-
-**FAB: Features, advantages, benefits**
-
-**Types of business**
-
-**Business Models**
+- FAB: Features, advantages, benefits
+- Types of business
+- Business Models
 
 2. Developing the idea
 
@@ -20,7 +17,7 @@ Considerations for company:
 
 (A few equations here, and a story on page 34)
 
-3. Protecting the idea
+3. **Protecting the idea**
 
 - **IPR**
 - **Valuation from IPR**
@@ -61,7 +58,7 @@ Considerations for company:
 9. **Managing People**
 
 - Management theories
-- Heirarchy of Needs
+- Hierarchy of Needs
 - Developing a team
 - Models for teamwork
 

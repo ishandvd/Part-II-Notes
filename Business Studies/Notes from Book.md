@@ -67,7 +67,11 @@ Considerations for company:
 
 10. **Managing Projects**
 
-- Developmen
+- Development cycle
+- PERTT and GANTT charts
+- 1:3:10 rule, 90% complete 90% of the time, eighty percent rule
+- Bug reports
+- 
 
 
 ## **Marketing and Selling**

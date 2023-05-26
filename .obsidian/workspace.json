@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb5aad43898a847",
+        "id": "9eb21ccd8c33d54f",
         "type": "tabs",
         "children": [
           {
-            "id": "e754d60cf96b1a8c",
+            "id": "e171b20c25033547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Business Studies/Notes from Doing PP Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4564dad943e9bc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Business Studies/Money Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e754d60cf96b1a8c",
+  "active": "e171b20c25033547",
   "lastOpenFiles": [
-    "Business Studies/Headers from Book.md",
+    "Some.md",
     "Business Studies/Notes from Doing PP Questions.md",
-    "Business Studies/Money Concepts.md",
     "Business Studies/Business Studies.md",
+    "Business Studies/Money Concepts.md",
+    "Business Studies/Headers from Book.md",
     "Bioinformatics/Section 9 - Simulations.md",
     "Cryptography/Cryptography Definitions.md",
     "Bioinformatics",

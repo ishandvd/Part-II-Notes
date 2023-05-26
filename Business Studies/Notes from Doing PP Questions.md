@@ -1,3 +1,11 @@
+## Overall Comments
+[https://www.cl.cam.ac.uk/teaching/exams/solutions/2018/2018-p27-q04-solutions.pdf](Some answers) 
+
+
+
+## Specific Comments
+
+
 ##### Debt Financing
 Is loan financing: can be in the form of using credit cards, overdrafts, mortgages, or direct loans, or more. You may also open yourself more conditions and to having to provide collateral.
 
@@ -17,4 +25,4 @@ If the company becomes insolvent then debt repayment has priority over equity.
 
 ##### Drawing Cash flow statements
 
-- Assume a two month (6)
+- Assume a two month (60 day) delay between an invoice being given out and payment being received.

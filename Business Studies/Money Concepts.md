@@ -27,8 +27,8 @@ Every **debit and every credit** will eventually appear in either a *balance she
 *profit and loss account*.
 
 - **Boundaries**: Need a well-defined and consistent boundary of what is being accounted for. Need to define: (1) *the entity*: e.g. the company, the department. needs to be same in each period. (2) *periodicity*: The period to which these accounts refer to, e.g. month or year. (3) *basis of valuation*: i.e. how things are valued. E.g. computer might be of no value if incomplete but valuable when complete, or vice versa. Assumed the entity will continue as a **going concern**, i.e. the entity will continue to trade in the future and that future sales are not forced.
-- **Measurement**: Must be *quantitative*, i.e. reduced to a common numeric basis of comparison
-- **Ethics**:
+- **Measurement**: Must be *quantitative*, i.e. reduced to a common numeric basis of comparison, usually monetary. Intangibles like goodwill should only be considered if they have a solid price.
+- **Ethics**: 'true and fair'. Deceiving others is fraud. Accounts should be objective and supported by external evidence.
 
 #### Profit and Loss Account
 (**applies to the balance sheet too**): If you increase debit, the must increase a credit or decrease another debit by the same amount. Vice versa for increasing a credit.
@@ -53,6 +53,8 @@ Every **debit and every credit** will eventually appear in either a *balance she
 
 
 #### Cash Flow Statement
+
+
 
 #### Interpreting Accounts
 

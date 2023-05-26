@@ -113,4 +113,11 @@ Considerations for company:
 17. **Valuation**
 
 - The concept of value: buying and selling
-- Valuation methods
+- Valuation methods: DCF, etc. *
+
+18. **Exit Routes**
+
+- Wild flower model
+- Acquisition vs Flotation
+- Financial Instruments
+- 

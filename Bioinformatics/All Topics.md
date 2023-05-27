@@ -31,11 +31,17 @@ Given a distance matrix, find the tree that minimizes the sum of squared errors.
 
 This problem is NP-complete.
 
+$$
+\mathrm{Discrepancy(T,D)}= \sum_{1 \leq i< j \leq n}(d_{i,j}(T) - D_{i,j})^2
+$$
+![[Pasted image 20230527080703.png]]
+
 ##### Small Parsimony
 ##### Large Parsimony Problem
 
 ##### Limb Length Theorem
 ##### Additive Phylogeny
+
 
 
 ##### UPGMA Algorithm

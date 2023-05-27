@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e171b20c25033547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bioinformatics/All Topics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4690c65bbe0157c6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

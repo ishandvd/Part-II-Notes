@@ -76,7 +76,10 @@ $\mathrm{LimbLength(chimp)} = \mathrm{min}((D_{\mathrm{chimp},k} + D_{\mathrm{ch
 1. Pick an arbitrary leaf j.
 2. Compute limb length using [[All Topics#Limb Length Theorem|limb length equation]].
 3. Subtract this LimbLength value from each row and column to produce a matrix $D^{\mathrm{bald}}$ in which j is a bald limb (length 0).
-4. Remove the j-th row and column of the matrix to for
+4. Remove the j-th row and column of the matrix to form $D^{\mathrm{trim}}$.
+5. Construct Tree($D^{\mathrm{trim}}$).
+6. Identify the point in Tree($D^{trim}$) where leaf j should be attached.
+7. Attach j by an edge of length LimbLength(j) to form Tree(D).
 
 ##### UPGMA Algorithm
 

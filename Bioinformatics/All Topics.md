@@ -40,10 +40,11 @@ This problem is NP-complete.
 
 ##### UPGMA Algorithm
 
-**Used to solve _ parsimony problem**
 
 **Input:** Distance matrix of clusters of size 1.
 **Output:** Ultra-metric Tree
+
+**Ultrametric tree:** **Rooted binary tree** (an unrooted binary tree with a root of degree 2 on one of its edges). **Edge weights** correspond to difference in ages on the nodes the edge connects. Distance from root to any leaf is the same (i.e. age of root).
 
 **Produces a tree for any matrix**
 **Doesn't necessarily fit an additive matrix**

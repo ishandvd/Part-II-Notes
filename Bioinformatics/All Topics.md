@@ -29,6 +29,9 @@
 
 **Additive Matrix:** Distance matrix such that there exists an unrooted tree fitting it.
 
+**Leaf**: Present day species (degree = 1).
+**Internal nodes:** Degree $\geq$ 
+
 Construct an evolutionary tree from a distance matrix.
 
 **Input:** a distance matrix.

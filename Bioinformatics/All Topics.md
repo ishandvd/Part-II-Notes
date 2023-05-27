@@ -38,7 +38,7 @@
 **Output:** Ultra-metric Tree
 
 
-**Runtime:** A trivial implementation of the algorithm to construct the UPGMA tree has lat $\mathcal{O}(n^3)$ time complexity, and using a heap for each cluster to keep its distances from other cluster reduces its time to $\mathcal{O}(n^2 \log n)$. Fionn Murtagh presented an $\mathcal{O}(n^2)$ time and space algorithm.
+**Runtime:** A trivial implementation of the algorithm to construct the UPGMA tree has $\mathcal{O}(n^3)$ time complexity, and using a heap for each cluster to keep its distances from other cluster reduces its time to $\mathcal{O}(n^2 \log n)$. Fionn Murtagh presented an $\mathcal{O}(n^2)$ time and space algorithm.
 
 Equation 1: $$
 d_{kl} = \frac{1}{|C_k||C_l|} \sum_{p \in C_k, q \in C_l} d_{pq}
@@ -47,7 +47,8 @@ $$
 1. Group together the two clusters with the smallest distance.
 2. Replace the two clusters with a larger cluster $a = C_1 \cup  C_2$.
 3. Find the distance from $a$ to all other clusters.
-4. Redo step 1 until you have a $2 \times2$ matrix, at which point you can join the last two clusters.
+4. Set the "age" of $a = $ 
+5. Redo step 1 until you have a $2 \times2$ matrix, at which point you can join the last two clusters.
 
 
 ##### Neighbour-Joining Algorithm

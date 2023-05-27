@@ -27,7 +27,7 @@
 **Theorem:** There is a unique simple tree fitting an additive matrix.
 **Simple Tree:** Tree with no nodes of degree 2 (as in diagram above). If we had a node of degree two, we would simply join its two neighbours with the sum of the distances to those neighbours, and get rid of our original node.
 
-**Additive Matrix:** Distance matrix such that there exists an unrooted tree fitting it.
+**Additive Matrix:** Distance matrix such that there exists an unrooted tree fitting it. When a zero matrix of the same order is added to it, then  the addition will be the same as matrix we started with. I.e. 
 
 **Distance Matrix:** Matrix of species containing $D_{i,j} = \mathrm{number~of~differing~symbols~between~i-th~and~j-th~species}$.
 
@@ -44,7 +44,7 @@ Construct an evolutionary tree from a distance matrix.
 
 ##### Least-Squares Distance-Based Phylogeny Problem
 
-Given a distance matrix, find the tree that minimizes the sum of squared errors. A tree can 
+Given a distance matrix, find the tree that minimizes the sum of squared errors. A tree can be constructed to have a least-squares error of 0, but this is only possible for additive matrices.
 
 **Input:** An $n \times n$ distance matrix D.
 **Output:** A weighted tree T with n leaves minimising **Discrepancy(T,D)** over all weighted trees with $n$ leaves.

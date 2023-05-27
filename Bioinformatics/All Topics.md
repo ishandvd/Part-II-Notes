@@ -43,7 +43,9 @@ $$
 
 $\mathrm{LimbLength(chimp)} = \mathrm{min}((D_{\mathrm{chimp},k} + D_{\mathrm{chimp},j} - D_{j,k}) / 2)$
 
-Where c
+![[Pasted image 20230527081135.png]]
+
+
 ##### Additive Phylogeny
 
 

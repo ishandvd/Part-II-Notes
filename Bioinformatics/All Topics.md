@@ -23,6 +23,14 @@
 ##### Limb Length Problem
 ##### Distance-Based Phylogeny Problem
 ##### Least-Squares Distance-Based Phylogeny Problem
+
+Given a distance matrix, find the tree that minimizes the sum of squared errors.
+
+**Input:** An $n \times n$ distance matrix D.
+**Output:** A weighted tree T with n leaves minimising **Discrepancy(T,D)** over all weighted trees with $n$ leaves.
+
+This problem is NP-complete.
+
 ##### Small Parsimony
 ##### Large Parsimony Problem
 
@@ -38,7 +46,7 @@
 **Output:** Ultra-metric Tree
 
 **Produces a tree for any matrix**
-**Does**
+**Doesn't necessarily fit an additive matrix**
 
 **Runtime:** A trivial implementation of the algorithm to construct the UPGMA tree has $\mathcal{O}(n^3)$ time complexity, and using a heap for each cluster to keep its distances from other cluster reduces its time to $\mathcal{O}(n^2 \log n)$. Fionn Murtagh presented an $\mathcal{O}(n^2)$ time and space algorithm.
 
@@ -54,6 +62,9 @@ $$
 
 
 ##### Neighbour-Joining Algorithm
+
+
+
 ##### Tree Validation: Bootstrap Algorithm
 ##### Progressive Alignment Algorithm
 

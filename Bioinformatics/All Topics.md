@@ -70,9 +70,12 @@ $\mathrm{LimbLength(chimp)} = \mathrm{min}((D_{\mathrm{chimp},k} + D_{\mathrm{ch
 
 **BTW phylogeny just means evolutionary.**
 
-**Input:** A distance matrix.
-**Output:** 
+**Input:** A distance matrix (must be additive).
+**Output:** A tree that perfectly matches the distance matrix.
 
+1. Pick an arbitrary leaf j.
+2. Compute limb length using [[All Topics#Limb Length Theorem|limb length equation]].
+3. Subtract this LimbLength value from each row and column to produce a matrix $D^{\mathrm{bald}}$ in which j is a 
 
 ##### UPGMA Algorithm
 

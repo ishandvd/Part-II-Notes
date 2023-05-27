@@ -37,6 +37,8 @@
 **Input:** Distance matrix of clusters of size 1.
 **Output:** Ultra-metric Tree
 
+**Produces a tree for any matrix**
+**Does**
 
 **Runtime:** A trivial implementation of the algorithm to construct the UPGMA tree has $\mathcal{O}(n^3)$ time complexity, and using a heap for each cluster to keep its distances from other cluster reduces its time to $\mathcal{O}(n^2 \log n)$. Fionn Murtagh presented an $\mathcal{O}(n^2)$ time and space algorithm.
 

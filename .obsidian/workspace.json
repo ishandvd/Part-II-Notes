@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum/Algorithms.md"
+                "file": "Quantum/Quantum Tips from PP Questions.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4690c65bbe0157c6",
   "lastOpenFiles": [
-    "Quantum/Quantum Definitions.md",
+    "Pasted image 20230527232421.png",
     "Quantum/Algorithms.md",
+    "Quantum/Quantum Tips from PP Questions.md",
+    "Quantum/Quantum Definitions.md",
     "Quantum/Theories.md",
     "Bioinformatics/All Topics.md",
     "Pasted image 20230527081441.png",

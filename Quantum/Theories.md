@@ -1,6 +1,14 @@
 
 #### Four Postulates
 
+##### Postulate 1: State Space
+
+##### Postulate 2: Evolution
+
+##### Postulate 3: Measurement
+
+
+
 #### Measuring
 
 #### Helstrom-Holevo Bound

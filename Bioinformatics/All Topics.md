@@ -22,10 +22,17 @@
 
 ##### Distance-Based Phylogeny Problem
 
+![[Pasted image 20230527081441.png]]
+
+**Theorem:** There is a unique simple tree fitting an additive matrix.
+**Simple Tree:** Tree with no nodes of degree 2 (as in diagram above). If we had a node of degree two, we would simply join its two neighbours with the sum of the distances to those neighbours, and get rid of our original node.
+
 Construct an evolutionary tree from a distance matrix.
 
 **Input:** a distance matrix.
-**Output:** The **simple tree** fitting this distance matrix (if the matrix is)
+**Output:** The **simple tree** fitting this distance matrix (**if** the matrix is additive).
+
+
 
 ##### Least-Squares Distance-Based Phylogeny Problem
 

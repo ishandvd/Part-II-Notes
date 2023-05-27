@@ -29,8 +29,11 @@
 
 **Additive Matrix:** Distance matrix such that there exists an unrooted tree fitting it.
 
+**Distance Matrix:** Matrix of species containing $D_{i,j} = \mathrm{number~of~differing~symbols~between~i-th~and~j-th~species}$.
+
 **Leaf**: Present day species (degree = 1).
-**Internal nodes:** Degree $\geq$ 
+**Internal nodes:** (Degree $\geq$ 1) ancestral species.
+**One node** designated as root (most recent common ancestor).
 
 Construct an evolutionary tree from a distance matrix.
 

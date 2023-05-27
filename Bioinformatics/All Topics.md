@@ -40,6 +40,10 @@ $$
 ##### Large Parsimony Problem
 
 ##### Limb Length Theorem
+
+$\mathrm{LimbLength(chimp)} = \mathrm{min}((D_{\mathrm{chimp},k} + D_{\mathrm{chimp},j} - D_{j,k}) / 2)$
+
+Where c
 ##### Additive Phylogeny
 
 

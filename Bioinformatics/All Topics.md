@@ -28,7 +28,24 @@
 
 ##### Limb Length Theorem
 ##### Additive Phylogeny
+
+
 ##### UPGMA Algorithm
+
+**Used to solve _ parsimony problem**
+
+Input: Distance matrix of clusters of size 1.
+Output: Ultra-metric Tree
+Runtime:
+
+Equation 1: $$
+d_{kl} = \frac{1}{}
+$$
+
+
+1. 
+
+
 ##### Neighbour-Joining Algorithm
 ##### Tree Validation: Bootstrap Algorithm
 ##### Progressive Alignment Algorithm

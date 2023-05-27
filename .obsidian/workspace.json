@@ -23,9 +23,11 @@
             "id": "4690c65bbe0157c6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Bioinformatics/All Topics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }

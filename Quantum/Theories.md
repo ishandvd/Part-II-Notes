@@ -9,7 +9,9 @@
 
 ##### Postulate 4: Composition
 
-The state place of a composite physical system is the tensor product ($\otimes$) of the state spaces of s
+The state place of a composite physical system is the tensor product ($\otimes$) of the state spaces of the component physical systems (i.e. the physical qubits).
+
+If we have systems numbered 1 through n, and the system number i is prepared in the state $\ket{\psi_i}$ then the join state of the total system is $\ket{\psi_i} \otimes \ket{\psi_}$
 
 #### Measuring
 

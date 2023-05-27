@@ -44,7 +44,7 @@ Construct an evolutionary tree from a distance matrix.
 
 ##### Least-Squares Distance-Based Phylogeny Problem
 
-Given a distance matrix, find the tree that minimizes the sum of squared errors.
+Given a distance matrix, find the tree that minimizes the sum of squared errors. A tree can 
 
 **Input:** An $n \times n$ distance matrix D.
 **Output:** A weighted tree T with n leaves minimising **Discrepancy(T,D)** over all weighted trees with $n$ leaves.
@@ -68,6 +68,10 @@ $\mathrm{LimbLength(chimp)} = \mathrm{min}((D_{\mathrm{chimp},k} + D_{\mathrm{ch
 
 ##### Additive Phylogeny
 
+**BTW phylogeny just means evolutionary.**
+
+**Input:** A distance matrix.
+**Output:** 
 
 
 ##### UPGMA Algorithm

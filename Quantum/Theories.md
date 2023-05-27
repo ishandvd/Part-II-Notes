@@ -9,7 +9,7 @@
 
 ##### Postulate 4: Composition
 
-The state place of a composite physical system is the tensor product ($\otimes$) of the state spaces of 
+The state place of a composite physical system is the tensor product ($\otimes$) of the state spaces of s
 
 #### Measuring
 

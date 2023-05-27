@@ -20,8 +20,13 @@
 
 # Section 3 - Building Trees
 
-##### Limb Length Problem
 ##### Distance-Based Phylogeny Problem
+
+Construct an evolutionary tree from a distance matrix.
+
+**Input:** a distance matrix.
+**Output:** The **simple tree** fitting this distance matrix (if the matrix is)
+
 ##### Least-Squares Distance-Based Phylogeny Problem
 
 Given a distance matrix, find the tree that minimizes the sum of squared errors.

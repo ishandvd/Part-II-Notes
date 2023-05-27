@@ -39,11 +39,11 @@ Output: Ultra-metric Tree
 Runtime:
 
 Equation 1: $$
-d_{kl} = \frac{1}{}
+d_{kl} = \frac{1}{|C_k||C_l|} \sum_{p \in C_k, q \in C_l} d_{pq}
 $$
 
-
-1. 
+1. Group together the two clusters with the smallest distance.
+2. Replace the two clusters with a larger cluster $a = C_1 \cup $
 
 
 ##### Neighbour-Joining Algorithm

@@ -47,7 +47,7 @@ $$
 1. Group together the two clusters with the smallest distance.
 2. Replace the two clusters with a larger cluster $a = C_1 \cup  C_2$.
 3. Find the distance from $a$ to all other clusters.
-4. Set the "age" of $a = $ 
+4. Set the "age" of $a = d_{c_1,C_2} / 2$ (half the distance from $C_1$ to $C_2$).
 5. Redo step 1 until you have a $2 \times2$ matrix, at which point you can join the last two clusters.
 
 

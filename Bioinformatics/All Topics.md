@@ -13,7 +13,7 @@
 
 Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needleman-Wunsch is a **dynamic programming** method.
 
-The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
+The linear gap penalty $c_L(\mathrm{gap~length}) = \mathrm{gap~length} \cdot d$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
 
 The **affine gap penalty** has a fixed gap cost for opening a gap follow by a linear cost for extending the gap: $$
 c_A(\mathrm{gap~length}) = d + (\mathrm{gap~length}-1) \cdot E

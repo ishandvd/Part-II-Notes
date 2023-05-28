@@ -11,14 +11,22 @@
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 
-Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance.
+Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needle
 
-The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length.
+The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
 
 The **affine gap penalty** has a fixed gap cost for opening a gap follow by a linear cost for extending the gap: $$
 c_A(d) = G + (d-1) \cdot E
 $$
 Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
+
+The solution is the optimal path through a 2-d grid that optimises the total score when going through that path.
+
+We start with a grid of size $|a| + 1, |b| + 1$ with the first row and column filled with zeros.
+
+We update 
+
+
 
 
 ##### Smith-Waterman Algorithm

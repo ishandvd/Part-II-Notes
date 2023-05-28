@@ -30,16 +30,14 @@ $$
 \begin{align}
 F_{i,j} = max\left\{
 \begin{array}{ll}
-F_{i-1, j-1} + S_{a[i], b[j]}  \mathrm{~~~If~match/mismatch} \\
-F_{i-1,j} &  + G \\
-
+F_{i-1, j-1} + S_{a[i], b[j]}   & \mathrm{If~match/mismatch} \\
+F_{i-1,j}   + G  & \mathrm{gap~in~b}\\
+F_{i, j-1} + G  & \mathrm{gap~in~a}
 \end{array}
 \right.
 \end{align}
 $$
-
-
-
+The only way to **add** a reward is if we go diagonally
 
 
 ##### Smith-Waterman Algorithm

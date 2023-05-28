@@ -41,6 +41,10 @@ The only way to **add** a reward is if we go diagonally (i.e. we accept a match/
 
 We **chug along** to the right if there is gap in $a$ (the vertical sequence on the left) and **chug along** downwards if there is a gap in $b$ (the horizontal sequence at the top).
 
+![[Pasted image 20230528200924.png]]
+
+It might be helpful to keep track of a **traceback matrix** that keeps track of the direction we came from at each point.
+
 
 ##### Smith-Waterman Algorithm
 ##### Hirshberg Algorithm

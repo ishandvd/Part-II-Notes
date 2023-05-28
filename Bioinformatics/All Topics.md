@@ -55,6 +55,26 @@ Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches o
 - Suitable for **divergent sequences**.
 - Most general local alignment algorithm is **Smith-Waterman**.
 
+Steps:
+- Initialization of $F$
+- Matrix filling ($F$)
+- Traceback
+
+
+Identical to [[All Topics#Needleman-Wunsch Algorithm|Needleman-Wunsch]] except now negative values become zero. i.e. our dynamic programming function is:
+
+$$
+\begin{align}
+F_{i,j} = max\left\{
+\begin{array}{ll}
+F_{i-1, j-1} + S_{a[i], b[j]}   & \mathrm{If~match/mismatch} \\
+F_{i-1,j}   + d  & \mathrm{gap~in~b}\\
+F_{i, j-1} + d  & \mathrm{gap~in~a}
+\end{array}
+\right.
+\end{align}
+$$
+
 
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming

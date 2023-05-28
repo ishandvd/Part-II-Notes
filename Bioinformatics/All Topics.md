@@ -100,7 +100,13 @@ $$
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming
 
+**Runtime:** Time, Space: $\mathcal{O}(N \times k(N)) \ll \mathcal{O}(N^2)$
+
 Assuming we know that a and b are similar, the optimal alignment of a and b has few gaps. The path of the alignment will be close to diagonal.
+
+![[Pasted image 20230528220012.png]]
+
+
 
 
 ##### Divide and Conquer Approach to Sequence Alignment

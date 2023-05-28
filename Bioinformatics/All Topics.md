@@ -28,9 +28,12 @@ We update the grid row by row from left to right with:
 
 $$
 \begin{align}
-F_{i,j} = \left\{ \\
-\begin{arrow}{ll} \\
-hi
+F_{i,j} = max\left\{
+\begin{array}{ll}
+F_{i-1, j-1} + S_{a[i], b[j]}  \mathrm{~~~If~match/mismatch} \\
+F_{i-1,j} &  + G \\
+
+\end{array}
 \right.
 \end{align}
 $$

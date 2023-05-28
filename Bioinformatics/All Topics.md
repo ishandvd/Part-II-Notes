@@ -23,6 +23,8 @@ The linear gap penalty $c_L(\mathrm{gap~length}) = \mathrm{gap~length} \cdot d$ 
 The **affine gap penalty** has a fixed gap cost for opening a gap follow by a linear cost for extending the gap: $$
 c_A(\mathrm{gap~length}) = d + (\mathrm{gap~length}-1) \cdot E
 $$
+Gaps usually occur in bunches so we use a convex gap penalty function $\gamma(n + 1) - \gamma(n) \leq \gamma(n) - \gamma(n - 1)$ for all $n$. ![[Pasted image 20230528220832.png]]
+
 Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
 
 The solution is the optimal path through a 2-d grid that optimises the total score when going through that path.

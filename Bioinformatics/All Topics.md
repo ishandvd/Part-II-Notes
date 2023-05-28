@@ -22,7 +22,7 @@ Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
 
 The solution is the optimal path through a 2-d grid that optimises the total score when going through that path.
 
-We start with a grid $F$ of size $|a| + 1, |b| + 1$ with the first row set to $F_{i, 0} = i \times G$ and the first column set to
+We start with a grid $F$ of size $|a| + 1$ rows and $|b| + 1$ columns, with the first column set to $F_{i, 0} = i \times G$ and the first row set to $F_{0, j} = j \times G$.
 
 We update the grid row by row from left to right with:
 
@@ -37,7 +37,7 @@ F_{i, j-1} + G  & \mathrm{gap~in~a}
 \right.
 \end{align}
 $$
-The only way to **add** a reward is if we go diagonally
+The only way to **add** a reward is if we go diagonally (i.e. we accept a match/mismatch); this also assumes that $$
 
 
 ##### Smith-Waterman Algorithm

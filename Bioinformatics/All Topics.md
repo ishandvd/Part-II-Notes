@@ -13,6 +13,9 @@
 
 Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance.
 
+The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length.
+
+The affine gap penalty has a fixed gap cost for opening a gap follow y
 
 
 

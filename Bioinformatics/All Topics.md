@@ -10,6 +10,12 @@
 ##### Longest Common Subsequence
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
+
+Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance.
+
+
+
+
 ##### Smith-Waterman Algorithm
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming

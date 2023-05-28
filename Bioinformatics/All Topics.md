@@ -111,7 +111,8 @@ F_{i,0}~\mathrm{and}~F_{0,j}~\mathrm{undefined~for}~i,j > k
 $$
 **Iteration**:
 
-
+For i = 1...M:
+	For j = $\mathrm{max}(1, i - k) \dots \mathrm{min}(N, i + k)$: # Just 
 
 
 

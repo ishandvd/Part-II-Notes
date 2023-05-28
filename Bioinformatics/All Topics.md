@@ -15,8 +15,10 @@ Typically used for [[All Topics#Global Alignment Problem|global alignment]], it 
 
 The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length.
 
-The affine gap penalty has a fixed gap cost for opening a gap follow y
-
+The **affine gap penalty** has a fixed gap cost for opening a gap follow by a linear cost for extending the gap: $$
+c_A(d) = G + (d-1) \cdot E
+$$
+Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
 
 
 ##### Smith-Waterman Algorithm

@@ -54,7 +54,7 @@ It might be helpful to keep track of a **traceback matrix** that keeps track of 
 ##### Smith-Waterman Algorithm
 
 Input:** A cost function matrix $s$, a gap cost $d$, and two sequences $a,b$.
-**Output:** A match describing the insertions, deletions, substitutions, and matches between the two sequences. MAY NOT OUTPUT MATCH?
+**Output:** A match describing the insertions, deletions, substitutions, and matches between the two sequences.
 
 **Runtime:** $\mathcal{O}(mn)$ for sequences of length $m$ and $n$. **Space**: Same as time.
 
@@ -87,10 +87,10 @@ F_{i, j-1} + d  & \mathrm{gap~in~a}
 $$
 
 We initialise using: $F_{0,0} = F_{0,j} = F_{i,0} = 0$.
-
+![[Pasted image 20230528214119.png]]
 **Termination:**
 
-If we want the **best** local alignment we use: $F_{\mathrm{OPT}} = lat $
+If we want the **best** local alignment we use: $F_{\mathrm{OPT}} = \mathrm{max}_{i,j}~F_{i,j}$. This will hopefully give us one of the values at the end of the blue trails in the diagram above. We then need to 
 
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming

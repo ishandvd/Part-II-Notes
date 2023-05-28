@@ -48,7 +48,12 @@ It might be helpful to keep track of a **traceback matrix** that keeps track of 
 
 ##### Smith-Waterman Algorithm
 
-Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the ighest density of maches.
+Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the highest density of matches.
+- Aligns regions having highest similarities between 2 sequences
+- More suitable for **partially similar**, **different length** and **conserved regions** containing sequences. I.e. if you don't want to introduce too many insertions/deletions.
+- Align substring of target sequence (a) of substrings of query sequence (b).
+- Suitable for **divergent sequences**.
+- Most general local alignment algorithm is **Smith-Waterman**.
 
 
 ##### Hirshberg Algorithm

@@ -22,7 +22,7 @@ Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
 
 The solution is the optimal path through a 2-d grid that optimises the total score when going through that path.
 
-We start with a grid of size $|a| + 1, |b| + 1$ with the first row and column filled with zeros.
+We start with a grid $F$ of size $|a| + 1, |b| + 1$ with the first row set to $F_{i, 0} = i \times G$ and the first column set to
 
 We update the grid row by row from left to right with:
 

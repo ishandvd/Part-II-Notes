@@ -86,6 +86,11 @@ F_{i, j-1} + d  & \mathrm{gap~in~a}
 \end{align}
 $$
 
+We initialise using: $F_{0,0} = F_{0,j} = F_{i,0} = 0$.
+
+**Termination:**
+
+If we want the **best** local alignment we use: $F_{\mathrm{OPT}} = lat $
 
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming

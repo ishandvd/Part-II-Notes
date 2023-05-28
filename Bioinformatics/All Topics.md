@@ -39,6 +39,8 @@ F_{i, j-1} + d  & \mathrm{gap~in~a}
 $$
 The only way to **add** a reward is if we go diagonally (i.e. we accept a match/mismatch); this also assumes that $S_{a[i], b[j]} > 0$.
 
+We **chug along** to the right if there is gap in $a$ (the vertical sequence on the left) and **chug along** downwards if there is a gap in $b$ (the horizontal sequence at the top).
+
 
 ##### Smith-Waterman Algorithm
 ##### Hirshberg Algorithm

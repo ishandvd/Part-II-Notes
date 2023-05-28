@@ -11,6 +11,8 @@
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 
+**Input**
+
 Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needleman-Wunsch is a **dynamic programming** method.
 
 The linear gap penalty $c_L(\mathrm{gap~length}) = \mathrm{gap~length} \cdot d$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
@@ -67,6 +69,7 @@ $$
 \begin{align}
 F_{i,j} = max\left\{
 \begin{array}{ll}
+0  & \mathrm{No~traceback~in~this~case}\\
 F_{i-1, j-1} + S_{a[i], b[j]}   & \mathrm{If~match/mismatch} \\
 F_{i-1,j}   + d  & \mathrm{gap~in~b}\\
 F_{i, j-1} + d  & \mathrm{gap~in~a}

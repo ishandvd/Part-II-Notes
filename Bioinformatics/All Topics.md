@@ -112,9 +112,12 @@ $$
 **Iteration**:
 
 For i = 1...M:
-	For j = $\mathrm{max}(1, i - k) \dots \mathrm{min}(N, i + k)$: # Just 
+	For j = $\mathrm{max}(1, i - k) \dots \mathrm{min}(N, i + k)$: # Keeps us in the band as above
+		![[Pasted image 20230528220629.png]]
 
-
+**Termination:**
+Same as Needleman-Wunsch.
+Easy to extend to the affine gap case.
 
 ##### Divide and Conquer Approach to Sequence Alignment
 ##### Linear Space Alignment Algorithm

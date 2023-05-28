@@ -90,7 +90,12 @@ We initialise using: $F_{0,0} = F_{0,j} = F_{i,0} = 0$.
 ![[Pasted image 20230528214119.png]]
 **Termination:**
 
-If we want the **best** local alignment we use: $F_{\mathrm{OPT}} = \mathrm{max}_{i,j}~F_{i,j}$. This will hopefully give us one of the values at the end of the blue trails in the diagram above. We then need to 
+If we want the **best** local alignment we use: $F_{\mathrm{OPT}} = \mathrm{max}_{i,j}~F_{i,j}$. This will hopefully give us one of the values at the end of the blue trails in the diagram above. We then need to traceback to find the whole local alignment match.
+
+If we want **all** local alignments with score $> t$, we use:
+$$
+\mathrm{For~all~i,j~find~}F_{i,j} > t~\mathrm{and~trace~back}
+$$
 
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming

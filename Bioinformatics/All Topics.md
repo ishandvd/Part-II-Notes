@@ -11,7 +11,7 @@
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 
-Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needle
+Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needleman-Wunsch is a **dynamic programming** method.
 
 The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
 
@@ -24,7 +24,17 @@ The solution is the optimal path through a 2-d grid that optimises the total sco
 
 We start with a grid of size $|a| + 1, |b| + 1$ with the first row and column filled with zeros.
 
-We update 
+We update the grid row by row from left to right with:
+
+$$
+\begin{align}
+F_{i,j} = \left\{ \\
+\begin{arrow}{ll} \\
+hi
+\right.
+\end{align}
+$$
+
 
 
 

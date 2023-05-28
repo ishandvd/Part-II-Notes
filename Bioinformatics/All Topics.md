@@ -99,6 +99,10 @@ $$
 
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming
+
+Assuming we know that a and b are similar, the optimal alignment of a and b has few gaps. The path of the alignment will be close to diagonal.
+
+
 ##### Divide and Conquer Approach to Sequence Alignment
 ##### Linear Space Alignment Algorithm
 ##### Four-Russian Algorithm

@@ -4,7 +4,9 @@
 # Section 2 - Alignment
 ##### Sequence Alignment
 
-We use a **scoring matrix** that contains values proportional to the probability that amino acid $i$ 
+We use a **scoring matrix** that contains values proportional to the probability that amino acid $i$ mutates into amino acid $j$ for all pairs of amino acids.
+
+Constructed by assembling a large and diverse sample of verified pairwise alignments (or multiple sequence alignments) of amino acids. They should reflect the true probabilities of mutations occurring through a period of evolution.
 
 ##### Global Alignment Problem
 ##### Local Alignment Problem

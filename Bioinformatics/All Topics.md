@@ -16,13 +16,13 @@ Typically used for [[All Topics#Global Alignment Problem|global alignment]], it 
 The linear gap penalty $c_L(d) = d \cdot G$ assigns a penalty that is linear to the insert/deletion gap length. We have $G < 0$.
 
 The **affine gap penalty** has a fixed gap cost for opening a gap follow by a linear cost for extending the gap: $$
-c_A(d) = G + (d-1) \cdot E
+c_A(\mathrm{gap~length}) = d + (\mathrm{gap~length}-1) \cdot E
 $$
 Blast.ncbi.nlm.gov - Can be used for Needleman-Wunsch.
 
 The solution is the optimal path through a 2-d grid that optimises the total score when going through that path.
 
-We start with a grid $F$ of size $|a| + 1$ rows and $|b| + 1$ columns, with the first column set to $F_{i, 0} = i \times G$ and the first row set to $F_{0, j} = j \times G$.
+We start with a grid $F$ of size $|a| + 1$ rows and $|b| + 1$ columns, with the first column set to $F_{i, 0} = i \times d$ and the first row set to $F_{0, j} = j \times d$.
 
 We update the grid row by row from left to right with:
 
@@ -31,13 +31,13 @@ $$
 F_{i,j} = max\left\{
 \begin{array}{ll}
 F_{i-1, j-1} + S_{a[i], b[j]}   & \mathrm{If~match/mismatch} \\
-F_{i-1,j}   + G  & \mathrm{gap~in~b}\\
-F_{i, j-1} + G  & \mathrm{gap~in~a}
+F_{i-1,j}   + d  & \mathrm{gap~in~b}\\
+F_{i, j-1} + d  & \mathrm{gap~in~a}
 \end{array}
 \right.
 \end{align}
 $$
-The only way to **add** a reward is if we go diagonally (i.e. we accept a match/mismatch); this also assumes that $$
+The only way to **add** a reward is if we go diagonally (i.e. we accept a match/mismatch); this also assumes that $S_{a[i], b[j]} > 0$.
 
 
 ##### Smith-Waterman Algorithm

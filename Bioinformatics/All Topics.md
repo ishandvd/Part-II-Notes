@@ -11,7 +11,10 @@
 ##### Edit Graph
 ##### Needleman-Wunsch Algorithm
 
-**Input**
+**Input:** A cost function matrix $s$, a gap cost $d$, and two sequences $a,b$.
+**Output:** A match describing the insertions, deletions, substitutions, and matches between the two sequences.
+
+**Runtime:** $\mathcal{O}(mn)$ for sequences of length $m$ and $n$.
 
 Typically used for [[All Topics#Global Alignment Problem|global alignment]], it uses a matrix $s_{a,b}$ that describes the ___ and a value $d$ that describes the distance. Needleman-Wunsch is a **dynamic programming** method.
 
@@ -49,6 +52,11 @@ It might be helpful to keep track of a **traceback matrix** that keeps track of 
 
 
 ##### Smith-Waterman Algorithm
+
+Input:** A cost function matrix $s$, a gap cost $d$, and two sequences $a,b$.
+**Output:** A match describing the insertions, deletions, substitutions, and matches between the two sequences.
+
+**Runtime:** $\mathcal{O}(mn)$ for sequences of length $m$ and $n$.
 
 Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the highest density of matches.
 - Aligns regions having highest similarities between 2 sequences

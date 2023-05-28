@@ -58,7 +58,7 @@ Input:** A cost function matrix $s$, a gap cost $d$, and two sequences $a,b$.
 
 **Runtime:** $\mathcal{O}(mn)$ for sequences of length $m$ and $n$. **Space**: Same as time.
 
-Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the highest density of matches.
+Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the highest density of matches. Ignores badly aligned regions.
 - Aligns regions having highest similarities between 2 sequences
 - More suitable for **partially similar**, **different length** and **conserved regions** containing sequences. I.e. if you don't want to introduce too many insertions/deletions.
 - Align substring of target sequence (a) of substrings of query sequence (b).

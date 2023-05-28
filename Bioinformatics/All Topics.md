@@ -47,6 +47,10 @@ It might be helpful to keep track of a **traceback matrix** that keeps track of 
 
 
 ##### Smith-Waterman Algorithm
+
+Used for [[All Topics#Local Alignment Problem|local alignment]]. The stretches of the sequences with the ighest density of maches.
+
+
 ##### Hirshberg Algorithm
 ##### Banded Dynamic Programming
 ##### Divide and Conquer Approach to Sequence Alignment

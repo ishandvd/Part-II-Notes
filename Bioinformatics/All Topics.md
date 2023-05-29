@@ -332,8 +332,19 @@ The center of gravity of points Data is the only point that solves the 1-Means c
 **Center of Gravity** = $\sum_{p \in Data} (p / \mathrm{num~points~in~Data})$
 
 
+##### Soft vs Hard Clustering
+
+**Hard choices:** Points are assigned either completely to one cluster or another.
+
+**Soft choices:** Points assigned cluster "responsibilities", meaning a weight to different clusters, with the sum of the weights equal to 1.
+
 ##### Coin Flipping Problem
 
+- Flip a loaded coin with an unknow bias $\theta$, representing the probability the coin lands on heads.
+- Coin lands on heads **i out of n times**.
+- For each bias, we can compute the probability of the resulting seq of flip:
+
+**Prob of generating seq:**
 
 ##### k-Centering Clustering Heuristic
 The **FarthestFirstTraversal:**
@@ -351,11 +362,6 @@ Select $k$ arbitrary data points as Centers and then iteratively perform the fol
 
 **Termination:** When centers stop moving (**convergence of centers**).
 
-##### Soft vs Hard Clustering
-
-**Hard choices:** Points are assigned either completely to one cluster or another.
-
-**Soft choices:** Points assigned cluster "responsibilities", meaning a weight to different clusters, with the sum of the weights equal 
 
 
 ##### K-means Clustering Algorithm

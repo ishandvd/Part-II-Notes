@@ -187,10 +187,13 @@ $$
 
 Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 
-![[Pasted image 20230529194457.png]]
+We assume $\delta_{i,j} = 0~\mathrm{if~i=j~else~1~otherwise}$
+
+
+![[Pasted image 20230529194957.png]]
 **Initialisation:** The leaves of the tree are hardcoded, they encode the species of whom we're trying to build a tree.
 
-**Iteration**: Consider the left-most node in the 2nd from bottom row in the image above. We can calculate the score $s_k(v)$ for this node $v$ for each symbol $k \in \{A,C,G,T\}$. Let us do $k = A$. We take the min of all symbols 
+**Iteration**: Consider the left-most node in the 2nd from top row in the image above. We can calculate the score $s_k(v)$ for this node $v$ for each symbol $k \in \{A,C,G,T\}$. Let us do $k = A$. We take the min of all possible symbols plus the corresponding $\delta_{i,j}$. This would be C, obviously, as C is zero.
  
 **Termination and backtracking:**
 

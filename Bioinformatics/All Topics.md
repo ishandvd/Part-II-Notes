@@ -182,12 +182,18 @@ $$
 
 ##### Large Parsimony Problem
 
+Large Parsimony Problem: Given a set of strings, find a tree (with leaves labeled by all these strings) having minimum parsimony score. 
+- **Input**: A collection of strings of equal length.
+- **Output**: A rooted binary tree T that minimises the parsimony score among all possible rooted binary trees with leaves labeled by these strings.
+
+**This problem is NP complete.**
+
 
 ##### Parsimony Algorithm
 
 Solves the [[All Topics#Small Parsimony Problem|Small Parsimony]] problem.
 
-**Runtime:** : if we want to calculate the overall length (cost) of a tree with m species, n characters, and k states, the Parsimony algorithm is of complexity $\mathcal{O}$
+**Runtime:** : if we want to calculate the overall length (cost) of a tree with m species, n characters, and k states, the Parsimony algorithm is of complexity $\mathcal{O}(mnk^2)$.
 
 Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 
@@ -202,6 +208,9 @@ We assume $\delta_{i,j} = 0~\mathrm{if~i=j~else~1~otherwise}$
 
 **Termination and backtracking:** Once we have the parsimony values of $A,C,T,G$ for the root of the tree, we choose the one with the smallest value. We then pick the left and right node symbols based on the symbols that gave us this minimal root value. We continue recursively down the tree with this.
 
+##### Greedy Heuristic for Large Parsimony
+
+Removing an **internal node**, an edge connecting two internal nodes,
 
 ##### Limb Length Theorem
 

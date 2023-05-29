@@ -171,6 +171,9 @@ $$
 
 ##### Small Parsimony Problem
 
+**Uses a multiple alignment to determine the most likely ancestral tree**.
+
+**Parsimony Score**: Sum of the Hamming distances along each edge of the tree.
 
 
 
@@ -178,6 +181,15 @@ $$
 **Output**: A labelling of the tree that minimises the parimony score. That is, it outputs the **most parsimonious** tree.
 
 ##### Large Parsimony Problem
+
+
+##### Parsimony Algorithm
+
+Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work wth one symbol from each string at a time.
+
+
+
+
 
 ##### Limb Length Theorem
 

@@ -349,9 +349,15 @@ Select $k$ arbitrary data points as Centers and then iteratively perform the fol
 
 **Clusters to Centers:** After assignment of data points to k clusters, compute new centers as center of gravity of each cluster.
 
-**Termination:** When centers stop moving (**convergence of centers**)
+**Termination:** When centers stop moving (**convergence of centers**).
 
 ##### Soft vs Hard Clustering
+
+**Hard choices:** Points are assigned either completely to one cluster or another.
+
+**Soft choices:** Points assigned cluster "responsibilities", meaning a weight to different clusters, with the sum of the weights equal 
+
+
 ##### K-means Clustering Algorithm
 ##### Expectation Maximisation Algorithm
 ##### Hierarchical Clustering

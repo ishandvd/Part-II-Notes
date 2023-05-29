@@ -317,6 +317,9 @@ Given a set of points (Data), find k centers minimising MaxDistance(Data, Center
 **Input:** A set of points (*expression vectors*) Data, and an integer $k$.
 **Output:** A set of $k$ points Centers that minimises MaxDistance(Data, Centers) over all possible choices Centers.
 
+##### K-Means Clustering Problem
+
+
 ##### Coin Flipping Problem
 
 
@@ -324,6 +327,10 @@ Given a set of points (Data), find k centers minimising MaxDistance(Data, Center
 The **FarthestFirstTraversal:**
 ![[Pasted image 20230529201348.png]]
 ![[Pasted image 20230529201402.png]]
+This selects Centers that minimise MaxDistance(Data, Centers), but biologists are interested in typical rather than maximum deviations, since **max deviations may represent outliers** (experimental errors).
+
+
+
 ##### Lloyd Algorithm
 ##### Soft vs Hard Clustering
 ##### K-means Clustering Algorithm

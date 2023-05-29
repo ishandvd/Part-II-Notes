@@ -310,6 +310,11 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 
 $\mathrm{MaxDistance(Data,~Centers) = max_{p \in Data}(dist(d, Centers))}$
 
+$\mathrm{MaxDistance(Data, Centers) = max_{p \in Data} (dist(p, Centers))}$
+
+**Squared Error Distortion**
+$\mathrm{Distortion(Data, Centers)}$
+
 ![[Pasted image 20230529201244.png]]
 
 Given a set of points (Data), find k centers minimising MaxDistance(Data, Centers).
@@ -336,9 +341,9 @@ The **FarthestFirstTraversal:**
 ![[Pasted image 20230529201402.png]]
 This selects Centers that minimise MaxDistance(Data, Centers), but biologists are interested in typical rather than maximum deviations, since **max deviations may represent outliers** (experimental errors).
 
-
-
 ##### Lloyd Algorithm
+
+
 ##### Soft vs Hard Clustering
 ##### K-means Clustering Algorithm
 ##### Expectation Maximisation Algorithm

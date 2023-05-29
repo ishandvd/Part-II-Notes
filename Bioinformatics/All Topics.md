@@ -220,7 +220,9 @@ Rearranging these subtrees is called the **nearest neighbour interchange**.
 
 **Nearest Neighbour Interchange Heuristic**:
 1. Set current tree equal to arbitrary binary rooted tree structure.
-2. Go through all interna
+2. Go through all internal edges and perform all possible nearest neighbour interchanges.
+3. Solve Small Parsimony Problem on each tree.
+4. If any tree has parsimony score improving over current optimal tree, set current tree equal to this. Otherwise, keep current tree.
 
 ##### Limb Length Theorem
 
@@ -275,6 +277,12 @@ Greedy algorithm (like UPGMA). Can find an additive tree in polynomial time.
 
 
 ##### Tree Validation: Bootstrap Algorithm
+
+Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstructed using some tree building methods.
+
+1. From each sequence, $n$ nucleotides (symbols) randomly chose
+
+
 ##### Progressive Alignment Algorithm
 
 # Section 4 - Clustering

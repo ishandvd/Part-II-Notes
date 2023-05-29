@@ -187,6 +187,8 @@ $$
 
 Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 
+![[Pasted image 20230529194457.png]]
+**Initialisation:** The leaves of the tree are hardcoded, they encode the species of whom we're trying to build a tree.
 
 
 

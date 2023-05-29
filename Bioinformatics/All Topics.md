@@ -210,7 +210,17 @@ We assume $\delta_{i,j} = 0~\mathrm{if~i=j~else~1~otherwise}$
 
 ##### Greedy Heuristic for Large Parsimony
 
-Removing an **internal node**, an edge connecting two internal nodes,
+Removing an **internal edge**, an edge connecting two internal nodes (along with the nodes) produces four subtree (W,X,Y,Z).
+
+![[Pasted image 20230529195843.png]]
+
+Rearranging these subtrees is called the **nearest neighbour interchange**.
+
+![[Pasted image 20230529195938.png]]
+
+**Nearest Neighbour Interchange Heuristic**:
+1. Set current tree equal to arbitrary binary rooted tree structure.
+2. Go through all interna
 
 ##### Limb Length Theorem
 

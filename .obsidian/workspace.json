@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bioinformatics/All Topics.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "021a1ca80df7d671",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/All Topics.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/All Topics.md",
+                "file": "Quantum/Quantum Tips from PP Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bioinformatics/All Topics.md"
+                "file": "Quantum/Quantum Tips from PP Questions.md"
               }
             }
           }
@@ -149,6 +148,7 @@
   },
   "active": "4690c65bbe0157c6",
   "lastOpenFiles": [
+    "Bioinformatics/All Topics.md",
     "Pasted image 20230528220913.png",
     "Pasted image 20230528220832.png",
     "Pasted image 20230528220629.png",
@@ -160,13 +160,11 @@
     "Quantum/Algorithms.md",
     "Quantum/Quantum Definitions.md",
     "Quantum/Theories.md",
-    "Bioinformatics/All Topics.md",
     "Pasted image 20230527081441.png",
     "Pasted image 20230527081135.png",
     "Pasted image 20230527080703.png",
     "Hoare Logic and Model Checking/Language Rules.md",
     "General Tips for Writing Proofs.md",
-    "Pasted image 20230526182004.png",
     "Business Studies/Notes from Doing PP Questions.md",
     "Some.md",
     "Business Studies/Business Studies.md",

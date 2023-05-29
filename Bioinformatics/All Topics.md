@@ -313,7 +313,7 @@ $\mathrm{MaxDistance(Data,~Centers) = max_{p \in Data}(dist(d, Centers))}$
 $\mathrm{MaxDistance(Data, Centers) = max_{p \in Data} (dist(p, Centers))}$
 
 **Squared Error Distortion**
-$\mathrm{Distortion(Data, Centers)}$
+$\mathrm{Distortion(Data, Centers) = \sum_{p \in Data}min(dist(p, Centers))^2 / n}$
 
 ![[Pasted image 20230529201244.png]]
 

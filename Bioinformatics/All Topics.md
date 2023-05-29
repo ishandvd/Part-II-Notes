@@ -345,6 +345,9 @@ The center of gravity of points Data is the only point that solves the 1-Means c
 - For each bias, we can compute the probability of the resulting seq of flip:
 
 **Prob of generating seq:**
+$Pr(\mathrm{sequence}|\theta) = \theta^i \times (1- \theta) ^ {n - i}$.
+
+Expression maximised at $\theta = i / n$ (the most likely bias).
 
 ##### k-Centering Clustering Heuristic
 The **FarthestFirstTraversal:**

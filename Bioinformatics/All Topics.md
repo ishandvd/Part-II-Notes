@@ -169,7 +169,14 @@ $$
 $$
 ![[Pasted image 20230527080703.png]]
 
-##### Small Parsimony
+##### Small Parsimony Problem
+
+
+
+
+**Input:** An unrooted tree and a cost function $\delta_{i,j}$ that tells you the cost of swapping from one symbol to another.
+**Output**: A labelling of the tree that minimises the parimony score. That is, it outputs the **most parsimonious** tree.
+
 ##### Large Parsimony Problem
 
 ##### Limb Length Theorem

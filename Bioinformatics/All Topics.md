@@ -184,6 +184,7 @@ $$
 
 
 ##### Parsimony Algorithm
+[[All Topics#]]
 
 Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 
@@ -193,8 +194,10 @@ We assume $\delta_{i,j} = 0~\mathrm{if~i=j~else~1~otherwise}$
 ![[Pasted image 20230529194957.png]]
 **Initialisation:** The leaves of the tree are hardcoded, they encode the species of whom we're trying to build a tree.
 
-**Iteration**: Consider the left-most node in the 2nd from top row in the image above. We can calculate the score $s_k(v)$ for this node $v$ for each symbol $k \in \{A,C,G,T\}$. Let us do $k = A$. For the left child (the Daughter) we take the min of all possible symbols plus the corresponding $\delta_{i,j}$. In this case, the minimising left child symbol would be C as $0 + 1 = 1$ which is the minimum parsimony from the left subtree. Similarly, the min parsimony from the right subtree is $1 + 0 = 1$ in the case of $A$ in the right child (the Son). This gives a total of $2$, so we sat  
-**Termination and backtracking:**
+**Iteration**: Consider the left-most node in the 2nd from top row in the image above. We can calculate the score $s_k(v)$ for this node $v$ for each symbol $k \in \{A,C,G,T\}$. Let us do $k = A$. For the left child (the Daughter) we take the min of all possible symbols plus the corresponding $\delta_{i,j}$. In this case, the minimising left child symbol would be C as $0 + 1 = 1$ which is the minimum parsimony from the left subtree. Similarly, the min parsimony from the right subtree is $1 + 0 = 1$ in the case of $A$ in the right child (the Son). This gives a total of $2$. We must remember that we picked $C,A$ as the left and right children A to help with backtracking.
+
+
+**Termination and backtracking:** Once we have the parsimony values of $A,C,T,G$ for the root of the tree, we choose the one with the smallest value. We then pick the left and right node symbols based on the symbols that gave us this minimal root value. We continue recursively down the tree with this.
 
 
 ##### Limb Length Theorem

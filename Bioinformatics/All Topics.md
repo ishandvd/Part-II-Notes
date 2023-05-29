@@ -343,6 +343,13 @@ This selects Centers that minimise MaxDistance(Data, Centers), but biologists ar
 
 ##### Lloyd Algorithm
 
+Select $k$ arbitrary data points as Centers and then iteratively perform the following two steps:
+
+**Centers to Clusters:** Assign each data point to the cluster corresponding to its nearest center (ties broken arbitrarily).
+
+**Clusters to Centers:** After assignment of data points to k clusters, compute new centers as center of gravity of each cluster.
+
+**Termination:** When centers stop moving (**convergence of centers**)
 
 ##### Soft vs Hard Clustering
 ##### K-means Clustering Algorithm

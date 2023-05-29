@@ -308,7 +308,12 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 
 ##### K-Center Clustering Problem
 
-Given a set of points (Data), find k centers 
+$\mathrm{MaxDistance(Data,~Centers) = max_{p \in Data}}$
+
+Given a set of points (Data), find k centers minimising MaxDistance(Data, Centers).
+
+**Input:** A set of points (*expression vectors*) Data, and an integer $k$.
+**Output:** A set of $k$ points Centers that minimises MaxDistance(Data, Centers) over all possible choices Centers.
 
 ##### Coin Flipping Problem
 

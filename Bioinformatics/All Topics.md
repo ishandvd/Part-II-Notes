@@ -177,7 +177,7 @@ $$
 
 
 
-**Input:** An unrooted tree and a cost function $\delta_{i,j}$ that tells you the cost of swapping from one symbol to another.
+**Input:** An unrooted binary tree and a cost function $\delta_{i,j}$ that tells you the cost of swapping from one symbol to another.
 **Output**: A labelling of the tree that minimises the parimony score. That is, it outputs the **most parsimonious** tree.
 
 ##### Large Parsimony Problem
@@ -185,7 +185,7 @@ $$
 
 ##### Parsimony Algorithm
 
-Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work wth one symbol from each string at a time.
+Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 
 
 

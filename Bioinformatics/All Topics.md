@@ -178,13 +178,16 @@ $$
 
 
 **Input:** An unrooted binary tree and a cost function $\delta_{i,j}$ that tells you the cost of swapping from one symbol to another.
-**Output**: A labelling of the tree that minimises the parimony score. That is, it outputs the **most parsimonious** tree.
+**Output**: A labelling of the tree that minimises the parsimony score. That is, it outputs the **most parsimonious** tree.
 
 ##### Large Parsimony Problem
 
 
 ##### Parsimony Algorithm
-[[All Topics#]]
+
+Solves the [[All Topics#Small Parsimony Problem|Small Parsimony]] problem.
+
+**Runtime:** : if we want to calculate the overall length (cost) of a tree with m species, n characters, and k states, the Parsimony algorithm is of complexity $\mathcal{O}$
 
 Treating the columns of the multiple alignment as independent of each other; solve the small parsimony problem on each column of the alignment separately. Can work with one symbol from each string at a time.
 

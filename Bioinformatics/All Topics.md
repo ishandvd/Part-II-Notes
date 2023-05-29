@@ -280,7 +280,10 @@ Greedy algorithm (like UPGMA). Can find an additive tree in polynomial time.
 
 Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstructed using some tree building methods.
 
-1. From each sequence, $n$ nucleotides (symbols) randomly chose
+1. From each sequence, $n$ nucleotides (symbols) randomly chosen with replacements, giving rise to $m$ rows of $n$ columns each.. These now constitute a **new set of sequences**.
+2. A tree is then reconstructed with these new sequences using the same tree building method as before.
+3. Topology of this tree **compared to that of original tree**. Each interior branch of original tree that is different from new **bootstrap tree** is given a score of 0; all other interior branches given value 1.
+4. This proce
 
 
 ##### Progressive Alignment Algorithm

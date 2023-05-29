@@ -284,10 +284,16 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 2. A tree is then reconstructed with these new sequences using the same tree building method as before.
 3. Topology of this tree **compared to that of original tree**. Each interior branch of original tree that is different from new **bootstrap tree** is given a score of 0; all other interior branches given value 1.
 4. This procedure of resampling the sites and tree reconstruction is **repeated several hundred times**, and percentage of times each interior branch is given value 1 is noted.
-5. **This is known as the bootstrap value**. Generally, if bootstrap value for a given interior branch > 95%, then topology at that branch is co
+5. **This is known as the bootstrap value**. Generally, if bootstrap value for a given interior branch > 95%, then topology at that branch is considered "correct".
 
 
 ##### Progressive Alignment Algorithm
+
+1. Given N sequences, align each sequence against each other.
+2. Use the score of the pairwise alignments to compute a distance matrix.
+3. build a guide tree (tree shows best order of progressive alignment).
+4. Progressive alignment guided by tree.
+5. 
 
 # Section 4 - Clustering
 

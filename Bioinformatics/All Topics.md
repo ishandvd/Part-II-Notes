@@ -190,7 +190,9 @@ Treating the columns of the multiple alignment as independent of each other; sol
 ![[Pasted image 20230529194457.png]]
 **Initialisation:** The leaves of the tree are hardcoded, they encode the species of whom we're trying to build a tree.
 
-
+**Iteration**: Consider the left-most node in the 2nd from bottom row in the image above. We can calculate the score $s_k(v)$ for this node $v$ for each symbol $k \in \{A,C,G,T\}$. Let us do $k = A$. We take the min of all symbols 
+ 
+**Termination and backtracking:**
 
 
 ##### Limb Length Theorem

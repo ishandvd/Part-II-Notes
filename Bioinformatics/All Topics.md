@@ -308,7 +308,9 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 
 ##### K-Center Clustering Problem
 
-$\mathrm{MaxDistance(Data,~Centers) = max_{p \in Data}}$
+$\mathrm{MaxDistance(Data,~Centers) = max_{p \in Data}(dist(d, Centers))}$
+
+![[Pasted image 20230529201244.png]]
 
 Given a set of points (Data), find k centers minimising MaxDistance(Data, Centers).
 
@@ -318,6 +320,10 @@ Given a set of points (Data), find k centers minimising MaxDistance(Data, Center
 ##### Coin Flipping Problem
 
 
+##### k-Centering Clustering Heuristic
+The **FarthestFirstTraversal:**
+![[Pasted image 20230529201348.png]]
+![[Pasted image 20230529201402.png]]
 ##### Lloyd Algorithm
 ##### Soft vs Hard Clustering
 ##### K-means Clustering Algorithm

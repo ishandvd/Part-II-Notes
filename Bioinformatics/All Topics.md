@@ -297,8 +297,19 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 
 # Section 4 - Clustering
 
+**Good clustering principle:** Elements within the same cluster are closer to each other than elements in different clusters.
+
 ##### Clustering Problem
+
+*Partition a set of expression vectors into clusters*.
+
+**Input:** A collection of n vectors and an integer k.
+**Output:** Partition of n vectors into k disjoint clusters satisfying the Good Clustering Principle.
+
 ##### K-Center Clustering Problem
+
+Given a set of points (Data), find k centers 
+
 ##### Coin Flipping Problem
 
 

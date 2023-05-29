@@ -283,7 +283,8 @@ Consider m sequences, each with n nucleotides, a phylogenetic tree is reconstruc
 1. From each sequence, $n$ nucleotides (symbols) randomly chosen with replacements, giving rise to $m$ rows of $n$ columns each.. These now constitute a **new set of sequences**.
 2. A tree is then reconstructed with these new sequences using the same tree building method as before.
 3. Topology of this tree **compared to that of original tree**. Each interior branch of original tree that is different from new **bootstrap tree** is given a score of 0; all other interior branches given value 1.
-4. This proce
+4. This procedure of resampling the sites and tree reconstruction is **repeated several hundred times**, and percentage of times each interior branch is given value 1 is noted.
+5. **This is known as the bootstrap value**. Generally, if bootstrap value for a given interior branch > 95%, then topology at that branch is co
 
 
 ##### Progressive Alignment Algorithm

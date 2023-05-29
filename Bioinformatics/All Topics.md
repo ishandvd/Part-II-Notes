@@ -318,6 +318,13 @@ Given a set of points (Data), find k centers minimising MaxDistance(Data, Center
 **Output:** A set of $k$ points Centers that minimises MaxDistance(Data, Centers) over all possible choices Centers.
 
 ##### K-Means Clustering Problem
+![[Pasted image 20230529201619.png]]
+
+For k = 1, we can just apply the **Center of Gravity Theorem:**
+
+The center of gravity of points Data is the only point that solves the 1-Means clustering problem.
+
+**Center of Gravity** = $\sum_{p \in Data} (p / \mathrm{num~points~in~Data})$
 
 
 ##### Coin Flipping Problem

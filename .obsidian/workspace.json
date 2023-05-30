@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Theories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Theories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum/Algorithms.md",
+                "file": "Quantum/Theories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum/Algorithms.md"
+                "file": "Quantum/Theories.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4690c65bbe0157c6",
   "lastOpenFiles": [
+    "Quantum/Algorithms.md",
     "Pasted image 20230530190313.png",
     "Bioinformatics/All Topics.md",
     "Pasted image 20230529201619.png",
@@ -163,8 +164,6 @@
     "Pasted image 20230529133051.png",
     "Cryptography/Cryptography Definitions.md",
     "Quantum/Quantum Tips from PP Questions.md",
-    "Pasted image 20230528220913.png",
-    "Quantum/Algorithms.md",
     "Quantum/Quantum Definitions.md",
     "Quantum/Theories.md",
     "Hoare Logic and Model Checking/Language Rules.md",

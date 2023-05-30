@@ -40,6 +40,6 @@ $$
 And an arbitrary:
 $$
 \begin{align}
-\alpha\ket{0} + \beta\ket{1} \to \frac{1}{2\sqrt{2}}(\alpha(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) + \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
+\alpha\ket{0} + \beta\ket{1} \to \frac{1}{2\sqrt{2}}(\alpha(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\+ \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
 \end{align}
 $$

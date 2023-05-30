@@ -1,3 +1,4 @@
+**Remember, you can check the number of tensor products $\otimes$ as a sanity check for how many qubits are in your system. Addition **
 - Have notes on SWAP, Bell states, postulates, QFT images
 
 ![[Pasted image 20230527232421.png]]

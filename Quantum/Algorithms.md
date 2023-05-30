@@ -56,4 +56,4 @@ $$
 (\ket{000} - \ket{111})) 
 \end{align}
 $$
-In this case, the first and fourth lines represent the physical bits which encode the first logical qubit. We assume the first physical bit of these three gets an error, and its two ancilla qubits (the two other physical qubits)
+In this case, the first and fourth lines represent the physical bits which encode the first logical qubit. We assume the first physical bit of these three have an error, and its two ancilla qubits (the two other physical qubits) don't have an error. So, only the first of each triplet in the first and fourth line is changed.

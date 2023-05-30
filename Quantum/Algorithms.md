@@ -32,7 +32,9 @@
 This encodes the computational basis states $\ket{0}, \ket{1}$ as:
 
 $$
-\ket{0} \to \ket{0_L} = \frac{1}{2\sqrt{2}}(\ket{000} + \ket{111}  ) 
-$$
+\begin{align}
+\ket{0} &\to \ket{0_L} = \frac{1}{2\sqrt{2}}(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\
+\ket{1} &\to \ket{1_L} = \frac{1}{2\sqrt}  
+\end{align}$$
 
 

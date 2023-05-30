@@ -34,7 +34,12 @@ This encodes the computational basis states $\ket{0}, \ket{1}$ as:
 $$
 \begin{align}
 \ket{0} &\to \ket{0_L} = \frac{1}{2\sqrt{2}}(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\
-\ket{1} &\to \ket{1_L} = \frac{1}{2\sqrt}  
+\ket{1} &\to \ket{1_L} = \frac{1}{2\sqrt{2}}(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})  
 \end{align}$$
 
-
+And an arbitrary:
+$$
+\begin{align}
+\alpha\ket{0} + \beta\ket{1} \to \frac{1}{2\sqrt{2}}(\alpha(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) + \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
+\end{align}
+$$

@@ -44,4 +44,8 @@ If we have systems numbered 1 through n, and the system number i is prepared in 
 
 #### Error Correction
 
-#### Depolarising 
+#### Depolarising Channel
+
+The quantum equivalent of the classical noise channel. It allows us to model bit flips, phase flips, and combined bit-phase flips. Where a physical qubit is left unchanged with probability $1 - p_e$, it experiences a bit-flip with probability $\frac{p_e}{ 3}$, a phase-flip with probability $\frac{p_e}{ 3}$, and a combined flip with probability $\frac{p_e}{ 3}$.
+
+The Shore code suppresses the error from $p_e$ to $\mathcal{O}(p$

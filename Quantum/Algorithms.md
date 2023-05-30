@@ -27,6 +27,12 @@
 
 #### Shore Codes
 
+![[Pasted image 20230530190313.png]]
 
+This encodes the computational basis states $\ket{0}, \ket{1}$ as:
+
+$$
+\ket{0} \to \ket{0_L} = \frac{1}{2\sqrt{2}}(\ket{000} + \ket{111}  ) 
+$$
 
 

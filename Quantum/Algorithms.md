@@ -43,3 +43,12 @@ $$
 \alpha\ket{0} + \beta\ket{1} \to \frac{1}{2\sqrt{2}}(\alpha(\ket{000} + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\+ \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
 \end{align}
 $$
+
+If the first qubit has an error which takes $\ket{0} \to a \ket{0} + b \ket{1}$ and $\ket{1} \to c \ket{0} + d \ket{1}$, then we have the state:
+
+
+$$
+\begin{align}
+\frac{1}{2\sqrt{2}}(\alpha(a\ket{000} + b\ket{100} + c  + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\+ \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
+\end{align}
+$$

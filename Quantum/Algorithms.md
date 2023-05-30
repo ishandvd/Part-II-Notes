@@ -26,3 +26,7 @@
 #### Three-Qubit Phase-Flip Code
 
 #### Shore Codes
+
+
+
+

@@ -49,6 +49,6 @@ If the first qubit has an error which takes $\ket{0} \to a \ket{0} + b \ket{1}$ 
 
 $$
 \begin{align}
-\frac{1}{2\sqrt{2}}(\alpha(a\ket{000} + b\ket{100} + c  + \ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\+ \beta(\ket{000} - \ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
+\frac{1}{2\sqrt{2}}(\alpha(a\ket{000} + b\ket{100} + c\ket{011}+ d\ket{111})(\ket{000} + \ket{111})(\ket{000} + \ket{111}) \\+ \beta(a\ket{000} + b\ket{100} - c\ket{011} -  d\ket{111})(\ket{000} - \ket{111})(\ket{000} - \ket{111})) 
 \end{align}
 $$

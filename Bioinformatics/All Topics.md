@@ -421,3 +421,11 @@ Can an exact stochastic simulation that avoids averaging assumptions. Tells you:
 - Which reaction occurs next
 
 #### Doob-Gillespie Algorithm
+
+Uses two random numbers per step.
+- First used to find when next reaction occurs
+- Second use to determine which reaction occurs at that time.
+
+- **Propensity function $a_i$ assigned to each reaction.** These probabilities tell us how likely each reaction is to occur. They are determined from the kinetic constants.
+- **Initial Number of Molecules of each species**.
+- **Time **

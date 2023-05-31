@@ -414,7 +414,10 @@ Select $k$ arbitrary data points as Centers and then iteratively perform the fol
 
 # Section 9 - Simulations
 
+If we start with N types of molecules that can interact through one of M reactions at any given time, what will the population levels be after a given period of time?
 
-
+Can an exact stochastic simulation that avoids averaging assumptions. Tells you:
+- When does the next reaction occur?
+- Which reaction occurs next
 
 #### Doob-Gillespie Algorithm

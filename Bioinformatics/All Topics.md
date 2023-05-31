@@ -435,4 +435,4 @@ Uses two random numbers per step.
 **Execution:**
 - Generate two independent uniform (0,1) random nums $r_1, r_2$.
 - Set $\tau = \frac{1}{a_0}\ln(\frac{1}{r_1})$ (equivalent to drawing an exponential random variable with parameter $a_0$).
-- Find $\$
+- Find $\mu \in [1, ..., M]$ s.t. $\sum_{k=1}^{\mu- 1} a_k$

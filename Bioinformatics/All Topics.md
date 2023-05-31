@@ -428,4 +428,10 @@ Uses two random numbers per step.
 
 - **Propensity function $a_i$ assigned to each reaction.** These probabilities tell us how likely each reaction is to occur. They are determined from the kinetic constants.
 - **Initial Number of Molecules of each species**.
-- **Time **
+
+**Initialisation:**
+- Set $t=0$, initial num of each molecule, and calculate propensity function $a_k$ of each reaction. Set $a_0 = sum_{k=1}^M a_k$.
+
+**Execution:**
+- Generate two independent uniform (0,1) random nums $r_1, r_2$.
+- Set tau 
